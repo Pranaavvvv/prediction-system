@@ -1,0 +1,2722 @@
+venue,result,Home Goals,Away Goals,Away Team,Home Team
+Away,W,2,0,West Ham,Manchester City
+Home,W,4,0,Bournemouth,Manchester City
+Away,D,3,3,Newcastle Utd,Manchester City
+Home,W,4,2,Crystal Palace,Manchester City
+Home,W,6,0,Nott'ham Forest,Manchester City
+Away,D,1,1,Aston Villa,Manchester City
+Away,W,3,0,Wolves,Manchester City
+Home,W,6,3,Manchester Utd,Manchester City
+Home,W,4,0,Southampton,Manchester City
+Away,L,0,1,Liverpool,Manchester City
+Home,W,3,1,Brighton,Manchester City
+Away,W,1,0,Leicester City,Manchester City
+Home,W,2,1,Fulham,Manchester City
+Home,L,1,2,Brentford,Manchester City
+Away,W,3,1,Leeds United,Manchester City
+Home,D,1,1,Everton,Manchester City
+Away,W,1,0,Chelsea,Manchester City
+Away,L,1,2,Manchester Utd,Manchester City
+Home,W,4,2,Tottenham,Manchester City
+Home,W,3,0,Wolves,Manchester City
+Away,L,0,1,Tottenham,Manchester City
+Home,W,3,1,Aston Villa,Manchester City
+Away,W,3,1,Arsenal,Manchester City
+Away,W,2,0,Crystal Palace,Arsenal
+Home,W,4,2,Leicester City,Arsenal
+Away,W,3,0,Bournemouth,Arsenal
+Home,W,2,1,Fulham,Arsenal
+Home,W,2,1,Aston Villa,Arsenal
+Away,L,1,3,Manchester Utd,Arsenal
+Away,W,3,0,Brentford,Arsenal
+Home,W,3,1,Tottenham,Arsenal
+Home,W,3,2,Liverpool,Arsenal
+Away,W,1,0,Leeds United,Arsenal
+Away,D,1,1,Southampton,Arsenal
+Home,W,5,0,Nott'ham Forest,Arsenal
+Away,W,1,0,Chelsea,Arsenal
+Away,W,2,0,Wolves,Arsenal
+Home,W,3,1,West Ham,Arsenal
+Away,W,4,2,Brighton,Arsenal
+Home,D,0,0,Newcastle Utd,Arsenal
+Away,W,2,0,Tottenham,Arsenal
+Home,W,3,2,Manchester Utd,Arsenal
+Away,L,0,1,Everton,Arsenal
+Home,D,1,1,Brentford,Arsenal
+Home,L,1,2,Brighton,Manchester Utd
+Away,L,0,4,Brentford,Manchester Utd
+Home,W,2,1,Liverpool,Manchester Utd
+Away,W,1,0,Southampton,Manchester Utd
+Away,W,1,0,Leicester City,Manchester Utd
+Home,W,3,1,Arsenal,Manchester Utd
+Away,L,3,6,Manchester City,Manchester Utd
+Away,W,2,1,Everton,Manchester Utd
+Home,D,0,0,Newcastle Utd,Manchester Utd
+Home,W,2,0,Tottenham,Manchester Utd
+Away,D,1,1,Chelsea,Manchester Utd
+Home,W,1,0,West Ham,Manchester Utd
+Away,L,1,3,Aston Villa,Manchester Utd
+Away,W,2,1,Fulham,Manchester Utd
+Home,W,3,0,Nott'ham Forest,Manchester Utd
+Away,W,1,0,Wolves,Manchester Utd
+Home,W,3,0,Bournemouth,Manchester Utd
+Home,W,2,1,Manchester City,Manchester Utd
+Away,D,1,1,Crystal Palace,Manchester Utd
+Away,L,2,3,Arsenal,Manchester Utd
+Home,W,2,1,Crystal Palace,Manchester Utd
+Home,D,2,2,Leeds United,Manchester Utd
+Away,W,2,0,Leeds United,Manchester Utd
+Home,W,2,0,Nott'ham Forest,Newcastle Utd
+Away,D,0,0,Brighton,Newcastle Utd
+Home,D,3,3,Manchester City,Newcastle Utd
+Away,D,1,1,Wolves,Newcastle Utd
+Away,L,1,2,Liverpool,Newcastle Utd
+Home,D,0,0,Crystal Palace,Newcastle Utd
+Home,D,1,1,Bournemouth,Newcastle Utd
+Away,W,4,1,Fulham,Newcastle Utd
+Home,W,5,1,Brentford,Newcastle Utd
+Away,D,0,0,Manchester Utd,Newcastle Utd
+Home,W,1,0,Everton,Newcastle Utd
+Away,W,2,1,Tottenham,Newcastle Utd
+Home,W,4,0,Aston Villa,Newcastle Utd
+Away,W,4,1,Southampton,Newcastle Utd
+Home,W,1,0,Chelsea,Newcastle Utd
+Away,W,3,0,Leicester City,Newcastle Utd
+Home,D,0,0,Leeds United,Newcastle Utd
+Away,D,0,0,Arsenal,Newcastle Utd
+Home,W,1,0,Fulham,Newcastle Utd
+Away,D,0,0,Crystal Palace,Newcastle Utd
+Home,D,1,1,West Ham,Newcastle Utd
+Away,D,1,1,Bournemouth,Newcastle Utd
+Home,W,4,1,Southampton,Tottenham
+Away,D,2,2,Chelsea,Tottenham
+Home,W,1,0,Wolves,Tottenham
+Away,W,2,0,Nott'ham Forest,Tottenham
+Away,D,1,1,West Ham,Tottenham
+Home,W,2,1,Fulham,Tottenham
+Home,W,6,2,Leicester City,Tottenham
+Away,L,1,3,Arsenal,Tottenham
+Away,W,1,0,Brighton,Tottenham
+Home,W,2,0,Everton,Tottenham
+Away,L,0,2,Manchester Utd,Tottenham
+Home,L,1,2,Newcastle Utd,Tottenham
+Away,W,3,2,Bournemouth,Tottenham
+Home,L,1,2,Liverpool,Tottenham
+Home,W,4,3,Leeds United,Tottenham
+Away,D,2,2,Brentford,Tottenham
+Home,L,0,2,Aston Villa,Tottenham
+Away,W,4,0,Crystal Palace,Tottenham
+Home,L,0,2,Arsenal,Tottenham
+Away,L,2,4,Manchester City,Tottenham
+Away,W,1,0,Fulham,Tottenham
+Home,W,1,0,Manchester City,Tottenham
+Away,L,1,4,Leicester City,Tottenham
+Away,W,2,1,Manchester Utd,Brighton
+Home,D,0,0,Newcastle Utd,Brighton
+Away,W,2,0,West Ham,Brighton
+Home,W,1,0,Leeds United,Brighton
+Away,L,1,2,Fulham,Brighton
+Home,W,5,2,Leicester City,Brighton
+Away,D,3,3,Liverpool,Brighton
+Home,L,0,1,Tottenham,Brighton
+Away,L,0,2,Brentford,Brighton
+Home,D,0,0,Nott'ham Forest,Brighton
+Away,L,1,3,Manchester City,Brighton
+Home,W,4,1,Chelsea,Brighton
+Away,W,3,2,Wolves,Brighton
+Home,L,1,2,Aston Villa,Brighton
+Away,W,3,1,Southampton,Brighton
+Home,L,2,4,Arsenal,Brighton
+Away,W,4,1,Everton,Brighton
+Home,W,3,0,Liverpool,Brighton
+Away,D,2,2,Leicester City,Brighton
+Home,W,1,0,Bournemouth,Brighton
+Away,D,1,1,Crystal Palace,Brighton
+Home,D,2,2,Liverpool,Fulham
+Away,D,0,0,Wolves,Fulham
+Home,W,3,2,Brentford,Fulham
+Away,L,1,2,Arsenal,Fulham
+Home,W,2,1,Brighton,Fulham
+Away,L,1,2,Tottenham,Fulham
+Away,W,3,2,Nott'ham Forest,Fulham
+Home,L,1,4,Newcastle Utd,Fulham
+Away,L,1,3,West Ham,Fulham
+Home,D,2,2,Bournemouth,Fulham
+Home,W,3,0,Aston Villa,Fulham
+Away,W,3,2,Leeds United,Fulham
+Home,D,0,0,Everton,Fulham
+Away,L,1,2,Manchester City,Fulham
+Home,L,1,2,Manchester Utd,Fulham
+Away,W,3,0,Crystal Palace,Fulham
+Home,W,2,1,Southampton,Fulham
+Away,W,1,0,Leicester City,Fulham
+Home,W,2,1,Chelsea,Fulham
+Away,L,0,1,Newcastle Utd,Fulham
+Home,L,0,1,Tottenham,Fulham
+Away,D,0,0,Chelsea,Fulham
+Home,W,2,0,Nott'ham Forest,Fulham
+Away,D,2,2,Leicester City,Brentford
+Home,W,4,0,Manchester Utd,Brentford
+Away,L,2,3,Fulham,Brentford
+Home,D,1,1,Everton,Brentford
+Away,D,1,1,Crystal Palace,Brentford
+Home,W,5,2,Leeds United,Brentford
+Home,L,0,3,Arsenal,Brentford
+Away,D,0,0,Bournemouth,Brentford
+Away,L,1,5,Newcastle Utd,Brentford
+Home,W,2,0,Brighton,Brentford
+Home,D,0,0,Chelsea,Brentford
+Away,L,0,4,Aston Villa,Brentford
+Home,D,1,1,Wolves,Brentford
+Away,D,2,2,Nott'ham Forest,Brentford
+Away,W,2,1,Manchester City,Brentford
+Home,D,2,2,Tottenham,Brentford
+Away,W,2,0,West Ham,Brentford
+Home,W,3,1,Liverpool,Brentford
+Home,W,2,0,Bournemouth,Brentford
+Away,D,0,0,Leeds United,Brentford
+Home,W,3,0,Southampton,Brentford
+Away,D,1,1,Arsenal,Brentford
+Away,D,2,2,Fulham,Liverpool
+Home,D,1,1,Crystal Palace,Liverpool
+Away,L,1,2,Manchester Utd,Liverpool
+Home,W,9,0,Bournemouth,Liverpool
+Home,W,2,1,Newcastle Utd,Liverpool
+Away,D,0,0,Everton,Liverpool
+Home,D,3,3,Brighton,Liverpool
+Away,L,2,3,Arsenal,Liverpool
+Home,W,1,0,Manchester City,Liverpool
+Home,W,1,0,West Ham,Liverpool
+Away,L,0,1,Nott'ham Forest,Liverpool
+Home,L,1,2,Leeds United,Liverpool
+Away,W,2,1,Tottenham,Liverpool
+Home,W,3,1,Southampton,Liverpool
+Away,W,3,1,Aston Villa,Liverpool
+Home,W,2,1,Leicester City,Liverpool
+Away,L,1,3,Brentford,Liverpool
+Away,L,0,3,Brighton,Liverpool
+Home,D,0,0,Chelsea,Liverpool
+Away,L,0,3,Wolves,Liverpool
+Home,W,2,0,Everton,Liverpool
+Away,W,1,0,Everton,Chelsea
+Home,D,2,2,Tottenham,Chelsea
+Away,L,0,3,Leeds United,Chelsea
+Home,W,2,1,Leicester City,Chelsea
+Away,L,1,2,Southampton,Chelsea
+Home,W,2,1,West Ham,Chelsea
+Away,W,2,1,Crystal Palace,Chelsea
+Home,W,3,0,Wolves,Chelsea
+Away,W,2,0,Aston Villa,Chelsea
+Away,D,0,0,Brentford,Chelsea
+Home,D,1,1,Manchester Utd,Chelsea
+Away,L,1,4,Brighton,Chelsea
+Home,L,0,1,Arsenal,Chelsea
+Away,L,0,1,Newcastle Utd,Chelsea
+Home,W,2,0,Bournemouth,Chelsea
+Away,D,1,1,Nott'ham Forest,Chelsea
+Home,L,0,1,Manchester City,Chelsea
+Away,L,1,2,Fulham,Chelsea
+Home,W,1,0,Crystal Palace,Chelsea
+Away,D,0,0,Liverpool,Chelsea
+Home,D,0,0,Fulham,Chelsea
+Away,D,1,1,West Ham,Chelsea
+Away,L,0,2,Bournemouth,Aston Villa
+Home,W,2,1,Everton,Aston Villa
+Away,L,1,3,Crystal Palace,Aston Villa
+Home,L,0,1,West Ham,Aston Villa
+Away,L,1,2,Arsenal,Aston Villa
+Home,D,1,1,Manchester City,Aston Villa
+Home,W,1,0,Southampton,Aston Villa
+Away,D,0,0,Leeds United,Aston Villa
+Away,D,1,1,Nott'ham Forest,Aston Villa
+Home,L,0,2,Chelsea,Aston Villa
+Away,L,0,3,Fulham,Aston Villa
+Home,W,4,0,Brentford,Aston Villa
+Away,L,0,4,Newcastle Utd,Aston Villa
+Home,W,3,1,Manchester Utd,Aston Villa
+Away,W,2,1,Brighton,Aston Villa
+Home,L,1,3,Liverpool,Aston Villa
+Away,W,2,0,Tottenham,Aston Villa
+Home,D,1,1,Wolves,Aston Villa
+Home,W,2,1,Leeds United,Aston Villa
+Away,W,1,0,Southampton,Aston Villa
+Home,L,2,4,Leicester City,Aston Villa
+Away,L,1,3,Manchester City,Aston Villa
+Home,L,0,2,Arsenal,Crystal Palace
+Away,D,1,1,Liverpool,Crystal Palace
+Home,W,3,1,Aston Villa,Crystal Palace
+Away,L,2,4,Manchester City,Crystal Palace
+Home,D,1,1,Brentford,Crystal Palace
+Away,D,0,0,Newcastle Utd,Crystal Palace
+Home,L,1,2,Chelsea,Crystal Palace
+Home,W,2,1,Leeds United,Crystal Palace
+Away,D,0,0,Leicester City,Crystal Palace
+Home,W,2,1,Wolves,Crystal Palace
+Away,L,0,3,Everton,Crystal Palace
+Home,W,1,0,Southampton,Crystal Palace
+Away,W,2,1,West Ham,Crystal Palace
+Away,L,0,1,Nott'ham Forest,Crystal Palace
+Home,L,0,3,Fulham,Crystal Palace
+Away,W,2,0,Bournemouth,Crystal Palace
+Home,L,0,4,Tottenham,Crystal Palace
+Away,L,0,1,Chelsea,Crystal Palace
+Home,D,1,1,Manchester Utd,Crystal Palace
+Home,D,0,0,Newcastle Utd,Crystal Palace
+Away,L,1,2,Manchester Utd,Crystal Palace
+Home,D,1,1,Brighton,Crystal Palace
+Home,D,2,2,Brentford,Leicester City
+Away,L,2,4,Arsenal,Leicester City
+Home,L,1,2,Southampton,Leicester City
+Away,L,1,2,Chelsea,Leicester City
+Home,L,0,1,Manchester Utd,Leicester City
+Away,L,2,5,Brighton,Leicester City
+Away,L,2,6,Tottenham,Leicester City
+Home,W,4,0,Nott'ham Forest,Leicester City
+Away,L,1,2,Bournemouth,Leicester City
+Home,D,0,0,Crystal Palace,Leicester City
+Home,W,2,0,Leeds United,Leicester City
+Away,W,4,0,Wolves,Leicester City
+Home,L,0,1,Manchester City,Leicester City
+Away,W,2,0,Everton,Leicester City
+Away,W,2,0,West Ham,Leicester City
+Home,L,0,3,Newcastle Utd,Leicester City
+Away,L,1,2,Liverpool,Leicester City
+Home,L,0,1,Fulham,Leicester City
+Away,L,0,2,Nott'ham Forest,Leicester City
+Home,D,2,2,Brighton,Leicester City
+Away,W,4,2,Aston Villa,Leicester City
+Home,W,4,1,Tottenham,Leicester City
+Away,L,0,2,Newcastle Utd,Nottingham Forest
+Home,W,1,0,West Ham,Nottingham Forest
+Away,D,1,1,Everton,Nottingham Forest
+Home,L,0,2,Tottenham,Nottingham Forest
+Away,L,0,6,Manchester City,Nottingham Forest
+Home,L,2,3,Bournemouth,Nottingham Forest
+Home,L,2,3,Fulham,Nottingham Forest
+Away,L,0,4,Leicester City,Nottingham Forest
+Home,D,1,1,Aston Villa,Nottingham Forest
+Away,L,0,1,Wolves,Nottingham Forest
+Away,D,0,0,Brighton,Nottingham Forest
+Home,W,1,0,Liverpool,Nottingham Forest
+Away,L,0,5,Arsenal,Nottingham Forest
+Home,D,2,2,Brentford,Nottingham Forest
+Home,W,1,0,Crystal Palace,Nottingham Forest
+Away,L,0,3,Manchester Utd,Nottingham Forest
+Home,D,1,1,Chelsea,Nottingham Forest
+Away,W,1,0,Southampton,Nottingham Forest
+Home,W,2,0,Leicester City,Nottingham Forest
+Away,D,1,1,Bournemouth,Nottingham Forest
+Home,W,1,0,Leeds United,Nottingham Forest
+Away,L,0,2,Fulham,Nottingham Forest
+Away,L,1,2,Leeds United,Wolves
+Home,D,0,0,Fulham,Wolves
+Away,L,0,1,Tottenham,Wolves
+Home,D,1,1,Newcastle Utd,Wolves
+Away,D,0,0,Bournemouth,Wolves
+Home,W,1,0,Southampton,Wolves
+Home,L,0,3,Manchester City,Wolves
+Away,L,0,2,West Ham,Wolves
+Away,L,0,3,Chelsea,Wolves
+Home,W,1,0,Nott'ham Forest,Wolves
+Away,L,1,2,Crystal Palace,Wolves
+Home,L,0,4,Leicester City,Wolves
+Away,D,1,1,Brentford,Wolves
+Home,L,2,3,Brighton,Wolves
+Home,L,0,2,Arsenal,Wolves
+Away,W,2,1,Everton,Wolves
+Home,L,0,1,Manchester Utd,Wolves
+Away,D,1,1,Aston Villa,Wolves
+Home,W,1,0,West Ham,Wolves
+Away,L,0,3,Manchester City,Wolves
+Home,W,3,0,Liverpool,Wolves
+Away,W,2,1,Southampton,Wolves
+Home,L,0,2,Manchester City,West Ham Utd
+Away,L,0,1,Nott'ham Forest,West Ham Utd
+Home,L,0,2,Brighton,West Ham Utd
+Away,W,1,0,Aston Villa,West Ham Utd
+Home,D,1,1,Tottenham,West Ham Utd
+Away,L,1,2,Chelsea,West Ham Utd
+Away,L,0,1,Everton,West Ham Utd
+Home,W,2,0,Wolves,West Ham Utd
+Home,W,3,1,Fulham,West Ham Utd
+Away,D,1,1,Southampton,West Ham Utd
+Away,L,0,1,Liverpool,West Ham Utd
+Home,W,2,0,Bournemouth,West Ham Utd
+Away,L,0,1,Manchester Utd,West Ham Utd
+Home,L,1,2,Crystal Palace,West Ham Utd
+Home,L,0,2,Leicester City,West Ham Utd
+Away,L,1,3,Arsenal,West Ham Utd
+Home,L,0,2,Brentford,West Ham Utd
+Away,D,2,2,Leeds United,West Ham Utd
+Away,L,0,1,Wolves,West Ham Utd
+Home,W,2,0,Everton,West Ham Utd
+Away,D,1,1,Newcastle Utd,West Ham Utd
+Home,D,1,1,Chelsea,West Ham Utd
+Home,W,2,1,Wolves,Leeds United
+Away,D,2,2,Southampton,Leeds United
+Home,W,3,0,Chelsea,Leeds United
+Away,L,0,1,Brighton,Leeds United
+Home,D,1,1,Everton,Leeds United
+Away,L,2,5,Brentford,Leeds United
+Home,D,0,0,Aston Villa,Leeds United
+Away,L,1,2,Crystal Palace,Leeds United
+Home,L,0,1,Arsenal,Leeds United
+Away,L,0,2,Leicester City,Leeds United
+Home,L,2,3,Fulham,Leeds United
+Away,W,2,1,Liverpool,Leeds United
+Home,W,4,3,Bournemouth,Leeds United
+Away,L,3,4,Tottenham,Leeds United
+Home,L,1,3,Manchester City,Leeds United
+Away,D,0,0,Newcastle Utd,Leeds United
+Home,D,2,2,West Ham,Leeds United
+Away,L,1,2,Aston Villa,Leeds United
+Home,D,0,0,Brentford,Leeds United
+Away,L,0,1,Nott'ham Forest,Leeds United
+Away,D,2,2,Manchester Utd,Leeds United
+Home,L,0,2,Manchester Utd,Leeds United
+Home,L,0,1,Chelsea,Everton
+Away,L,1,2,Aston Villa,Everton
+Home,D,1,1,Nott'ham Forest,Everton
+Away,D,1,1,Brentford,Everton
+Away,D,1,1,Leeds United,Everton
+Home,D,0,0,Liverpool,Everton
+Home,W,1,0,West Ham,Everton
+Away,W,2,1,Southampton,Everton
+Home,L,1,2,Manchester Utd,Everton
+Away,L,0,2,Tottenham,Everton
+Away,L,0,1,Newcastle Utd,Everton
+Home,W,3,0,Crystal Palace,Everton
+Away,D,0,0,Fulham,Everton
+Home,L,0,2,Leicester City,Everton
+Away,L,0,3,Bournemouth,Everton
+Home,L,1,2,Wolves,Everton
+Away,D,1,1,Manchester City,Everton
+Home,L,1,4,Brighton,Everton
+Home,L,1,2,Southampton,Everton
+Away,L,0,2,West Ham,Everton
+Home,W,1,0,Arsenal,Everton
+Away,L,0,2,Liverpool,Everton
+Home,W,2,0,Aston Villa,Bournemouth
+Away,L,0,4,Manchester City,Bournemouth
+Home,L,0,3,Arsenal,Bournemouth
+Away,L,0,9,Liverpool,Bournemouth
+Home,D,0,0,Wolves,Bournemouth
+Away,W,3,2,Nott'ham Forest,Bournemouth
+Away,D,1,1,Newcastle Utd,Bournemouth
+Home,D,0,0,Brentford,Bournemouth
+Home,W,2,1,Leicester City,Bournemouth
+Away,D,2,2,Fulham,Bournemouth
+Home,L,0,1,Southampton,Bournemouth
+Away,L,0,2,West Ham,Bournemouth
+Home,L,2,3,Tottenham,Bournemouth
+Away,L,3,4,Leeds United,Bournemouth
+Home,W,3,0,Everton,Bournemouth
+Away,L,0,2,Chelsea,Bournemouth
+Home,L,0,2,Crystal Palace,Bournemouth
+Away,L,0,3,Manchester Utd,Bournemouth
+Away,L,0,2,Brentford,Bournemouth
+Home,D,1,1,Nott'ham Forest,Bournemouth
+Away,L,0,1,Brighton,Bournemouth
+Home,D,1,1,Newcastle Utd,Bournemouth
+Away,L,1,4,Tottenham,Southampton
+Home,D,2,2,Leeds United,Southampton
+Away,W,2,1,Leicester City,Southampton
+Home,L,0,1,Manchester Utd,Southampton
+Home,W,2,1,Chelsea,Southampton
+Away,L,0,1,Wolves,Southampton
+Away,L,0,1,Aston Villa,Southampton
+Home,L,1,2,Everton,Southampton
+Away,L,0,4,Manchester City,Southampton
+Home,D,1,1,West Ham,Southampton
+Away,W,1,0,Bournemouth,Southampton
+Home,D,1,1,Arsenal,Southampton
+Away,L,0,1,Crystal Palace,Southampton
+Home,L,1,4,Newcastle Utd,Southampton
+Away,L,1,3,Liverpool,Southampton
+Home,L,1,3,Brighton,Southampton
+Away,L,1,2,Fulham,Southampton
+Home,L,0,1,Nott'ham Forest,Southampton
+Away,W,2,1,Everton,Southampton
+Home,L,0,1,Aston Villa,Southampton
+Away,L,0,3,Brentford,Southampton
+Home,L,1,2,Wolves,Southampton
+Away,L,0,1,Tottenham,Manchester City
+Home,W,5,0,Norwich City,Manchester City
+Home,W,5,0,Arsenal,Manchester City
+Away,W,1,0,Leicester City,Manchester City
+Home,D,0,0,Southampton,Manchester City
+Away,W,1,0,Chelsea,Manchester City
+Away,D,2,2,Liverpool,Manchester City
+Home,W,2,0,Burnley,Manchester City
+Away,W,4,1,Brighton,Manchester City
+Home,L,0,2,Crystal Palace,Manchester City
+Away,W,2,0,Manchester Utd,Manchester City
+Home,W,3,0,Everton,Manchester City
+Home,W,2,1,West Ham,Manchester City
+Away,W,2,1,Aston Villa,Manchester City
+Away,W,3,1,Watford,Manchester City
+Home,W,1,0,Wolves,Manchester City
+Home,W,7,0,Leeds United,Manchester City
+Away,W,4,0,Newcastle Utd,Manchester City
+Home,W,6,3,Leicester City,Manchester City
+Away,W,1,0,Brentford,Manchester City
+Away,W,2,1,Arsenal,Manchester City
+Home,W,1,0,Chelsea,Manchester City
+Away,D,1,1,Southampton,Manchester City
+Home,W,2,0,Brentford,Manchester City
+Away,W,4,0,Norwich City,Manchester City
+Home,L,2,3,Tottenham,Manchester City
+Away,W,1,0,Everton,Manchester City
+Home,W,4,1,Manchester Utd,Manchester City
+Away,D,0,0,Crystal Palace,Manchester City
+Away,W,2,0,Burnley,Manchester City
+Home,D,2,2,Liverpool,Manchester City
+Home,W,3,0,Brighton,Manchester City
+Home,W,5,1,Watford,Manchester City
+Away,W,4,0,Leeds United,Manchester City
+Home,W,5,0,Newcastle Utd,Manchester City
+Away,W,5,1,Wolves,Manchester City
+Away,D,2,2,West Ham,Manchester City
+Home,W,3,2,Aston Villa,Manchester City
+Away,W,3,0,Norwich City,Liverpool
+Home,W,2,0,Burnley,Liverpool
+Home,D,1,1,Chelsea,Liverpool
+Away,W,3,0,Leeds United,Liverpool
+Home,W,3,0,Crystal Palace,Liverpool
+Away,D,3,3,Brentford,Liverpool
+Home,D,2,2,Manchester City,Liverpool
+Away,W,5,0,Watford,Liverpool
+Away,W,5,0,Manchester Utd,Liverpool
+Home,D,2,2,Brighton,Liverpool
+Away,L,2,3,West Ham,Liverpool
+Home,W,4,0,Arsenal,Liverpool
+Home,W,4,0,Southampton,Liverpool
+Away,W,4,1,Everton,Liverpool
+Away,W,1,0,Wolves,Liverpool
+Home,W,1,0,Aston Villa,Liverpool
+Home,W,3,1,Newcastle Utd,Liverpool
+Away,D,2,2,Tottenham,Liverpool
+Away,L,0,1,Leicester City,Liverpool
+Away,D,2,2,Chelsea,Liverpool
+Home,W,3,0,Brentford,Liverpool
+Away,W,3,1,Crystal Palace,Liverpool
+Home,W,2,0,Leicester City,Liverpool
+Away,W,1,0,Burnley,Liverpool
+Home,W,3,1,Norwich City,Liverpool
+Home,W,6,0,Leeds United,Liverpool
+Home,W,1,0,West Ham,Liverpool
+Away,W,2,0,Brighton,Liverpool
+Away,W,2,0,Arsenal,Liverpool
+Home,W,2,0,Watford,Liverpool
+Away,D,2,2,Manchester City,Liverpool
+Home,W,4,0,Manchester Utd,Liverpool
+Home,W,2,0,Everton,Liverpool
+Away,W,1,0,Newcastle Utd,Liverpool
+Home,D,1,1,Tottenham,Liverpool
+Away,W,2,1,Aston Villa,Liverpool
+Away,W,2,1,Southampton,Liverpool
+Home,W,3,1,Wolves,Liverpool
+Home,W,3,0,Crystal Palace,Chelsea
+Away,W,2,0,Arsenal,Chelsea
+Away,D,1,1,Liverpool,Chelsea
+Home,W,3,0,Aston Villa,Chelsea
+Away,W,3,0,Tottenham,Chelsea
+Home,L,0,1,Manchester City,Chelsea
+Home,W,3,1,Southampton,Chelsea
+Away,W,1,0,Brentford,Chelsea
+Home,W,7,0,Norwich City,Chelsea
+Away,W,3,0,Newcastle Utd,Chelsea
+Home,D,1,1,Burnley,Chelsea
+Away,W,3,0,Leicester City,Chelsea
+Home,D,1,1,Manchester Utd,Chelsea
+Away,W,2,1,Watford,Chelsea
+Away,L,2,3,West Ham,Chelsea
+Home,W,3,2,Leeds United,Chelsea
+Home,D,1,1,Everton,Chelsea
+Away,D,0,0,Wolves,Chelsea
+Away,W,3,1,Aston Villa,Chelsea
+Home,D,1,1,Brighton,Chelsea
+Home,D,2,2,Liverpool,Chelsea
+Away,L,0,1,Manchester City,Chelsea
+Away,D,1,1,Brighton,Chelsea
+Home,W,2,0,Tottenham,Chelsea
+Away,W,1,0,Crystal Palace,Chelsea
+Away,W,4,0,Burnley,Chelsea
+Away,W,3,1,Norwich City,Chelsea
+Home,W,1,0,Newcastle Utd,Chelsea
+Home,L,1,4,Brentford,Chelsea
+Away,W,6,0,Southampton,Chelsea
+Home,L,2,4,Arsenal,Chelsea
+Home,W,1,0,West Ham,Chelsea
+Away,D,1,1,Manchester Utd,Chelsea
+Away,L,0,1,Everton,Chelsea
+Home,D,2,2,Wolves,Chelsea
+Away,W,3,0,Leeds United,Chelsea
+Home,D,1,1,Leicester City,Chelsea
+Home,W,2,1,Watford,Chelsea
+Home,W,1,0,Manchester City,Tottenham
+Away,W,1,0,Wolves,Tottenham
+Home,W,1,0,Watford,Tottenham
+Away,L,0,3,Crystal Palace,Tottenham
+Home,L,0,3,Chelsea,Tottenham
+Away,L,1,3,Arsenal,Tottenham
+Home,W,2,1,Aston Villa,Tottenham
+Away,W,3,2,Newcastle Utd,Tottenham
+Away,L,0,1,West Ham,Tottenham
+Home,L,0,3,Manchester Utd,Tottenham
+Away,D,0,0,Everton,Tottenham
+Home,W,2,1,Leeds United,Tottenham
+Home,W,2,0,Brentford,Tottenham
+Home,W,3,0,Norwich City,Tottenham
+Home,D,2,2,Liverpool,Tottenham
+Home,W,3,0,Crystal Palace,Tottenham
+Away,D,1,1,Southampton,Tottenham
+Away,W,1,0,Watford,Tottenham
+Away,W,3,2,Leicester City,Tottenham
+Away,L,0,2,Chelsea,Tottenham
+Home,L,2,3,Southampton,Tottenham
+Home,L,0,2,Wolves,Tottenham
+Away,W,3,2,Manchester City,Tottenham
+Away,L,0,1,Burnley,Tottenham
+Away,W,4,0,Leeds United,Tottenham
+Home,W,5,0,Everton,Tottenham
+Away,L,2,3,Manchester Utd,Tottenham
+Away,W,2,0,Brighton,Tottenham
+Home,W,3,1,West Ham,Tottenham
+Home,W,5,1,Newcastle Utd,Tottenham
+Away,W,4,0,Aston Villa,Tottenham
+Home,L,0,1,Brighton,Tottenham
+Away,D,0,0,Brentford,Tottenham
+Home,W,3,1,Leicester City,Tottenham
+Away,D,1,1,Liverpool,Tottenham
+Home,W,3,0,Arsenal,Tottenham
+Home,W,1,0,Burnley,Tottenham
+Away,W,5,0,Norwich City,Tottenham
+Away,L,0,2,Brentford,Arsenal
+Home,L,0,2,Chelsea,Arsenal
+Away,L,0,5,Manchester City,Arsenal
+Home,W,1,0,Norwich City,Arsenal
+Away,W,1,0,Burnley,Arsenal
+Home,W,3,1,Tottenham,Arsenal
+Away,D,0,0,Brighton,Arsenal
+Home,D,2,2,Crystal Palace,Arsenal
+Home,W,3,1,Aston Villa,Arsenal
+Away,W,2,0,Leicester City,Arsenal
+Home,W,1,0,Watford,Arsenal
+Away,L,0,4,Liverpool,Arsenal
+Home,W,2,0,Newcastle Utd,Arsenal
+Away,L,2,3,Manchester Utd,Arsenal
+Away,L,1,2,Everton,Arsenal
+Home,W,3,0,Southampton,Arsenal
+Home,W,2,0,West Ham,Arsenal
+Away,W,4,1,Leeds United,Arsenal
+Away,W,5,0,Norwich City,Arsenal
+Home,L,1,2,Manchester City,Arsenal
+Home,D,0,0,Burnley,Arsenal
+Away,W,1,0,Wolves,Arsenal
+Home,W,2,1,Brentford,Arsenal
+Home,W,2,1,Wolves,Arsenal
+Away,W,3,2,Watford,Arsenal
+Home,W,2,0,Leicester City,Arsenal
+Home,L,0,2,Liverpool,Arsenal
+Away,W,1,0,Aston Villa,Arsenal
+Away,L,0,3,Crystal Palace,Arsenal
+Home,L,1,2,Brighton,Arsenal
+Away,L,0,1,Southampton,Arsenal
+Away,W,4,2,Chelsea,Arsenal
+Home,W,3,1,Manchester Utd,Arsenal
+Away,W,2,1,West Ham,Arsenal
+Home,W,2,1,Leeds United,Arsenal
+Away,L,0,3,Tottenham,Arsenal
+Away,L,0,2,Newcastle Utd,Arsenal
+Home,W,5,1,Everton,Arsenal
+Home,W,5,1,Leeds United,Manchester Utd
+Away,D,1,1,Southampton,Manchester Utd
+Away,W,1,0,Wolves,Manchester Utd
+Home,W,4,1,Newcastle Utd,Manchester Utd
+Away,W,2,1,West Ham,Manchester Utd
+Home,L,0,1,Aston Villa,Manchester Utd
+Home,D,1,1,Everton,Manchester Utd
+Away,L,2,4,Leicester City,Manchester Utd
+Home,L,0,5,Liverpool,Manchester Utd
+Away,W,3,0,Tottenham,Manchester Utd
+Home,L,0,2,Manchester City,Manchester Utd
+Away,L,1,4,Watford,Manchester Utd
+Away,D,1,1,Chelsea,Manchester Utd
+Home,W,3,2,Arsenal,Manchester Utd
+Home,W,1,0,Crystal Palace,Manchester Utd
+Away,W,1,0,Norwich City,Manchester Utd
+Away,D,1,1,Newcastle Utd,Manchester Utd
+Home,W,3,1,Burnley,Manchester Utd
+Home,L,0,1,Wolves,Manchester Utd
+Away,D,2,2,Aston Villa,Manchester Utd
+Away,W,3,1,Brentford,Manchester Utd
+Home,W,1,0,West Ham,Manchester Utd
+Away,D,1,1,Burnley,Manchester Utd
+Home,D,1,1,Southampton,Manchester Utd
+Home,W,2,0,Brighton,Manchester Utd
+Away,W,4,2,Leeds United,Manchester Utd
+Home,D,0,0,Watford,Manchester Utd
+Away,L,1,4,Manchester City,Manchester Utd
+Home,W,3,2,Tottenham,Manchester Utd
+Home,D,1,1,Leicester City,Manchester Utd
+Away,L,0,1,Everton,Manchester Utd
+Home,W,3,2,Norwich City,Manchester Utd
+Away,L,0,4,Liverpool,Manchester Utd
+Away,L,1,3,Arsenal,Manchester Utd
+Home,D,1,1,Chelsea,Manchester Utd
+Home,W,3,0,Brentford,Manchester Utd
+Away,L,0,4,Brighton,Manchester Utd
+Away,L,0,1,Crystal Palace,Manchester Utd
+Away,W,4,2,Newcastle Utd,West Ham Utd
+Home,W,4,1,Leicester City,West Ham Utd
+Home,D,2,2,Crystal Palace,West Ham Utd
+Away,D,0,0,Southampton,West Ham Utd
+Home,L,1,2,Manchester Utd,West Ham Utd
+Away,W,2,1,Leeds United,West Ham Utd
+Home,L,1,2,Brentford,West Ham Utd
+Away,W,1,0,Everton,West Ham Utd
+Home,W,1,0,Tottenham,West Ham Utd
+Away,W,4,1,Aston Villa,West Ham Utd
+Home,W,3,2,Liverpool,West Ham Utd
+Away,L,0,1,Wolves,West Ham Utd
+Away,L,1,2,Manchester City,West Ham Utd
+Home,D,1,1,Brighton,West Ham Utd
+Home,W,3,2,Chelsea,West Ham Utd
+Away,D,0,0,Burnley,West Ham Utd
+Away,L,0,2,Arsenal,West Ham Utd
+Home,L,2,3,Southampton,West Ham Utd
+Away,W,4,1,Watford,West Ham Utd
+Away,W,3,2,Crystal Palace,West Ham Utd
+Home,W,2,0,Norwich City,West Ham Utd
+Home,L,2,3,Leeds United,West Ham Utd
+Away,L,0,1,Manchester Utd,West Ham Utd
+Home,W,1,0,Watford,West Ham Utd
+Away,D,2,2,Leicester City,West Ham Utd
+Home,D,1,1,Newcastle Utd,West Ham Utd
+Home,W,1,0,Wolves,West Ham Utd
+Away,L,0,1,Liverpool,West Ham Utd
+Home,W,2,1,Aston Villa,West Ham Utd
+Away,L,1,3,Tottenham,West Ham Utd
+Home,W,2,1,Everton,West Ham Utd
+Away,L,0,2,Brentford,West Ham Utd
+Home,D,1,1,Burnley,West Ham Utd
+Away,L,0,1,Chelsea,West Ham Utd
+Home,L,1,2,Arsenal,West Ham Utd
+Away,W,4,0,Norwich City,West Ham Utd
+Home,D,2,2,Manchester City,West Ham Utd
+Away,L,1,3,Brighton,West Ham Utd
+Home,W,1,0,Wolves,Leicester City
+Away,L,1,4,West Ham,Leicester City
+Away,W,2,1,Norwich City,Leicester City
+Home,L,0,1,Manchester City,Leicester City
+Away,L,1,2,Brighton,Leicester City
+Home,D,2,2,Burnley,Leicester City
+Away,D,2,2,Crystal Palace,Leicester City
+Home,W,4,2,Manchester Utd,Leicester City
+Away,W,2,1,Brentford,Leicester City
+Home,L,0,2,Arsenal,Leicester City
+Away,D,1,1,Leeds United,Leicester City
+Home,L,0,3,Chelsea,Leicester City
+Home,W,4,2,Watford,Leicester City
+Away,D,2,2,Southampton,Leicester City
+Away,L,1,2,Aston Villa,Leicester City
+Home,W,4,0,Newcastle Utd,Leicester City
+Away,L,3,6,Manchester City,Leicester City
+Home,W,1,0,Liverpool,Leicester City
+Home,L,2,3,Tottenham,Leicester City
+Home,D,1,1,Brighton,Leicester City
+Away,L,0,2,Liverpool,Leicester City
+Home,D,2,2,West Ham,Leicester City
+Away,L,1,2,Wolves,Leicester City
+Away,W,2,0,Burnley,Leicester City
+Home,W,1,0,Leeds United,Leicester City
+Away,L,0,2,Arsenal,Leicester City
+Home,W,2,1,Brentford,Leicester City
+Away,D,1,1,Manchester Utd,Leicester City
+Home,W,2,1,Crystal Palace,Leicester City
+Away,L,1,2,Newcastle Utd,Leicester City
+Away,D,1,1,Everton,Leicester City
+Home,D,0,0,Aston Villa,Leicester City
+Away,L,1,3,Tottenham,Leicester City
+Home,L,1,2,Everton,Leicester City
+Home,W,3,0,Norwich City,Leicester City
+Away,W,5,1,Watford,Leicester City
+Away,D,1,1,Chelsea,Leicester City
+Home,W,4,1,Southampton,Leicester City
+Away,W,2,1,Burnley,Brighton
+Home,W,2,0,Watford,Brighton
+Home,L,0,2,Everton,Brighton
+Away,W,1,0,Brentford,Brighton
+Home,W,2,1,Leicester City,Brighton
+Away,D,1,1,Crystal Palace,Brighton
+Home,D,0,0,Arsenal,Brighton
+Away,D,0,0,Norwich City,Brighton
+Home,L,1,4,Manchester City,Brighton
+Away,D,2,2,Liverpool,Brighton
+Home,D,1,1,Newcastle Utd,Brighton
+Away,L,0,2,Aston Villa,Brighton
+Home,D,0,0,Leeds United,Brighton
+Away,D,1,1,West Ham,Brighton
+Away,D,1,1,Southampton,Brighton
+Home,L,0,1,Wolves,Brighton
+Home,W,2,0,Brentford,Brighton
+Away,D,1,1,Chelsea,Brighton
+Away,W,3,2,Everton,Brighton
+Home,D,1,1,Crystal Palace,Brighton
+Home,D,1,1,Chelsea,Brighton
+Away,D,1,1,Leicester City,Brighton
+Away,W,2,0,Watford,Brighton
+Away,L,0,2,Manchester Utd,Brighton
+Home,L,0,3,Burnley,Brighton
+Home,L,0,2,Aston Villa,Brighton
+Away,L,1,2,Newcastle Utd,Brighton
+Home,L,0,2,Liverpool,Brighton
+Home,L,0,2,Tottenham,Brighton
+Home,D,0,0,Norwich City,Brighton
+Away,W,2,1,Arsenal,Brighton
+Away,W,1,0,Tottenham,Brighton
+Away,L,0,3,Manchester City,Brighton
+Home,D,2,2,Southampton,Brighton
+Away,W,3,0,Wolves,Brighton
+Home,W,4,0,Manchester Utd,Brighton
+Away,D,1,1,Leeds United,Brighton
+Home,W,3,1,West Ham,Brighton
+Away,L,0,1,Leicester City,Wolves
+Home,L,0,1,Tottenham,Wolves
+Home,L,0,1,Manchester Utd,Wolves
+Away,W,2,0,Watford,Wolves
+Home,L,0,2,Brentford,Wolves
+Away,W,1,0,Southampton,Wolves
+Home,W,2,1,Newcastle Utd,Wolves
+Away,W,3,2,Aston Villa,Wolves
+Away,D,1,1,Leeds United,Wolves
+Home,W,2,1,Everton,Wolves
+Away,L,0,2,Crystal Palace,Wolves
+Home,W,1,0,West Ham,Wolves
+Away,D,0,0,Norwich City,Wolves
+Home,D,0,0,Burnley,Wolves
+Home,L,0,1,Liverpool,Wolves
+Away,L,0,1,Manchester City,Wolves
+Away,W,1,0,Brighton,Wolves
+Home,D,0,0,Chelsea,Wolves
+Away,W,1,0,Manchester Utd,Wolves
+Home,W,3,1,Southampton,Wolves
+Away,W,2,1,Brentford,Wolves
+Home,L,0,1,Arsenal,Wolves
+Away,W,2,0,Tottenham,Wolves
+Home,W,2,1,Leicester City,Wolves
+Away,L,1,2,Arsenal,Wolves
+Away,L,0,1,West Ham,Wolves
+Home,L,0,2,Crystal Palace,Wolves
+Home,W,4,0,Watford,Wolves
+Away,W,1,0,Everton,Wolves
+Home,L,2,3,Leeds United,Wolves
+Home,W,2,1,Aston Villa,Wolves
+Away,L,0,1,Newcastle Utd,Wolves
+Away,L,0,1,Burnley,Wolves
+Home,L,0,3,Brighton,Wolves
+Away,D,2,2,Chelsea,Wolves
+Home,L,1,5,Manchester City,Wolves
+Home,D,1,1,Norwich City,Wolves
+Away,L,1,3,Liverpool,Wolves
+Home,L,2,4,West Ham,Newcastle Utd
+Away,L,0,2,Aston Villa,Newcastle Utd
+Home,D,2,2,Southampton,Newcastle Utd
+Away,L,1,4,Manchester Utd,Newcastle Utd
+Home,D,1,1,Leeds United,Newcastle Utd
+Away,D,1,1,Watford,Newcastle Utd
+Away,L,1,2,Wolves,Newcastle Utd
+Home,L,2,3,Tottenham,Newcastle Utd
+Away,D,1,1,Crystal Palace,Newcastle Utd
+Home,L,0,3,Chelsea,Newcastle Utd
+Away,D,1,1,Brighton,Newcastle Utd
+Home,D,3,3,Brentford,Newcastle Utd
+Away,L,0,2,Arsenal,Newcastle Utd
+Home,D,1,1,Norwich City,Newcastle Utd
+Home,W,1,0,Burnley,Newcastle Utd
+Away,L,0,4,Leicester City,Newcastle Utd
+Away,L,1,3,Liverpool,Newcastle Utd
+Home,L,0,4,Manchester City,Newcastle Utd
+Home,D,1,1,Manchester Utd,Newcastle Utd
+Home,D,1,1,Watford,Newcastle Utd
+Away,W,1,0,Leeds United,Newcastle Utd
+Home,W,3,1,Everton,Newcastle Utd
+Home,W,1,0,Aston Villa,Newcastle Utd
+Away,D,1,1,West Ham,Newcastle Utd
+Away,W,2,0,Brentford,Newcastle Utd
+Home,W,2,1,Brighton,Newcastle Utd
+Away,W,2,1,Southampton,Newcastle Utd
+Away,L,0,1,Chelsea,Newcastle Utd
+Away,L,0,1,Everton,Newcastle Utd
+Away,L,1,5,Tottenham,Newcastle Utd
+Home,W,1,0,Wolves,Newcastle Utd
+Home,W,2,1,Leicester City,Newcastle Utd
+Home,W,1,0,Crystal Palace,Newcastle Utd
+Away,W,3,0,Norwich City,Newcastle Utd
+Home,L,0,1,Liverpool,Newcastle Utd
+Away,L,0,5,Manchester City,Newcastle Utd
+Home,W,2,0,Arsenal,Newcastle Utd
+Away,W,2,1,Burnley,Newcastle Utd
+Away,L,0,3,Chelsea,Crystal Palace
+Home,D,0,0,Brentford,Crystal Palace
+Away,D,2,2,West Ham,Crystal Palace
+Home,W,3,0,Tottenham,Crystal Palace
+Away,L,0,3,Liverpool,Crystal Palace
+Home,D,1,1,Brighton,Crystal Palace
+Home,D,2,2,Leicester City,Crystal Palace
+Away,D,2,2,Arsenal,Crystal Palace
+Home,D,1,1,Newcastle Utd,Crystal Palace
+Away,W,2,0,Manchester City,Crystal Palace
+Home,W,2,0,Wolves,Crystal Palace
+Away,D,3,3,Burnley,Crystal Palace
+Home,L,1,2,Aston Villa,Crystal Palace
+Away,L,0,1,Leeds United,Crystal Palace
+Away,L,0,1,Manchester Utd,Crystal Palace
+Home,W,3,1,Everton,Crystal Palace
+Home,D,2,2,Southampton,Crystal Palace
+Away,L,0,3,Tottenham,Crystal Palace
+Home,W,3,0,Norwich City,Crystal Palace
+Home,L,2,3,West Ham,Crystal Palace
+Away,D,1,1,Brighton,Crystal Palace
+Home,L,1,3,Liverpool,Crystal Palace
+Away,D,1,1,Norwich City,Crystal Palace
+Away,D,0,0,Brentford,Crystal Palace
+Home,L,0,1,Chelsea,Crystal Palace
+Away,W,4,1,Watford,Crystal Palace
+Home,D,1,1,Burnley,Crystal Palace
+Away,W,2,0,Wolves,Crystal Palace
+Home,D,0,0,Manchester City,Crystal Palace
+Home,W,3,0,Arsenal,Crystal Palace
+Away,L,1,2,Leicester City,Crystal Palace
+Away,L,0,1,Newcastle Utd,Crystal Palace
+Home,D,0,0,Leeds United,Crystal Palace
+Away,W,2,1,Southampton,Crystal Palace
+Home,W,1,0,Watford,Crystal Palace
+Away,D,1,1,Aston Villa,Crystal Palace
+Away,L,2,3,Everton,Crystal Palace
+Home,W,1,0,Manchester Utd,Crystal Palace
+Home,W,2,0,Arsenal,Brentford
+Away,D,0,0,Crystal Palace,Brentford
+Away,D,1,1,Aston Villa,Brentford
+Home,L,0,1,Brighton,Brentford
+Away,W,2,0,Wolves,Brentford
+Home,D,3,3,Liverpool,Brentford
+Away,W,2,1,West Ham,Brentford
+Home,L,0,1,Chelsea,Brentford
+Home,L,1,2,Leicester City,Brentford
+Away,L,1,3,Burnley,Brentford
+Home,L,1,2,Norwich City,Brentford
+Away,D,3,3,Newcastle Utd,Brentford
+Home,W,1,0,Everton,Brentford
+Away,L,0,2,Tottenham,Brentford
+Away,D,2,2,Leeds United,Brentford
+Home,W,2,1,Watford,Brentford
+Away,L,0,2,Brighton,Brentford
+Home,L,0,1,Manchester City,Brentford
+Home,W,2,1,Aston Villa,Brentford
+Away,L,1,4,Southampton,Brentford
+Away,L,0,3,Liverpool,Brentford
+Home,L,1,3,Manchester Utd,Brentford
+Home,L,1,2,Wolves,Brentford
+Away,L,0,2,Manchester City,Brentford
+Home,D,0,0,Crystal Palace,Brentford
+Away,L,1,2,Arsenal,Brentford
+Home,L,0,2,Newcastle Utd,Brentford
+Away,W,3,1,Norwich City,Brentford
+Home,W,2,0,Burnley,Brentford
+Away,L,1,2,Leicester City,Brentford
+Away,W,4,1,Chelsea,Brentford
+Home,W,2,0,West Ham,Brentford
+Away,W,2,1,Watford,Brentford
+Home,D,0,0,Tottenham,Brentford
+Away,L,0,3,Manchester Utd,Brentford
+Home,W,3,0,Southampton,Brentford
+Away,W,3,2,Everton,Brentford
+Home,L,1,2,Leeds United,Brentford
+Away,L,2,3,Watford,Aston Villa
+Home,W,2,0,Newcastle Utd,Aston Villa
+Home,D,1,1,Brentford,Aston Villa
+Away,L,0,3,Chelsea,Aston Villa
+Home,W,3,0,Everton,Aston Villa
+Away,W,1,0,Manchester Utd,Aston Villa
+Away,L,1,2,Tottenham,Aston Villa
+Home,L,2,3,Wolves,Aston Villa
+Away,L,1,3,Arsenal,Aston Villa
+Home,L,1,4,West Ham,Aston Villa
+Away,L,0,1,Southampton,Aston Villa
+Home,W,2,0,Brighton,Aston Villa
+Away,W,2,1,Crystal Palace,Aston Villa
+Home,L,1,2,Manchester City,Aston Villa
+Home,W,2,1,Leicester City,Aston Villa
+Away,L,0,1,Liverpool,Aston Villa
+Away,W,2,0,Norwich City,Aston Villa
+Home,L,1,3,Chelsea,Aston Villa
+Away,L,1,2,Brentford,Aston Villa
+Home,D,2,2,Manchester Utd,Aston Villa
+Away,W,1,0,Everton,Aston Villa
+Home,D,3,3,Leeds United,Aston Villa
+Away,L,0,1,Newcastle Utd,Aston Villa
+Home,L,0,1,Watford,Aston Villa
+Away,W,2,0,Brighton,Aston Villa
+Home,W,4,0,Southampton,Aston Villa
+Away,W,3,0,Leeds United,Aston Villa
+Away,L,1,2,West Ham,Aston Villa
+Home,L,0,1,Arsenal,Aston Villa
+Away,L,1,2,Wolves,Aston Villa
+Home,L,0,4,Tottenham,Aston Villa
+Away,D,0,0,Leicester City,Aston Villa
+Home,W,2,0,Norwich City,Aston Villa
+Away,W,3,1,Burnley,Aston Villa
+Home,L,1,2,Liverpool,Aston Villa
+Home,D,1,1,Crystal Palace,Aston Villa
+Home,D,1,1,Burnley,Aston Villa
+Away,L,2,3,Manchester City,Aston Villa
+Away,L,1,3,Everton,Southampton
+Home,D,1,1,Manchester Utd,Southampton
+Away,D,2,2,Newcastle Utd,Southampton
+Home,D,0,0,West Ham,Southampton
+Away,D,0,0,Manchester City,Southampton
+Home,L,0,1,Wolves,Southampton
+Away,L,1,3,Chelsea,Southampton
+Home,W,1,0,Leeds United,Southampton
+Home,D,2,2,Burnley,Southampton
+Away,W,1,0,Watford,Southampton
+Home,W,1,0,Aston Villa,Southampton
+Away,L,1,2,Norwich City,Southampton
+Away,L,0,4,Liverpool,Southampton
+Home,D,2,2,Leicester City,Southampton
+Home,D,1,1,Brighton,Southampton
+Away,L,0,3,Arsenal,Southampton
+Away,D,2,2,Crystal Palace,Southampton
+Away,W,3,2,West Ham,Southampton
+Home,D,1,1,Tottenham,Southampton
+Home,W,4,1,Brentford,Southampton
+Away,L,1,3,Wolves,Southampton
+Home,D,1,1,Manchester City,Southampton
+Away,W,3,2,Tottenham,Southampton
+Away,D,1,1,Manchester Utd,Southampton
+Home,W,2,0,Everton,Southampton
+Home,W,2,0,Norwich City,Southampton
+Away,L,0,4,Aston Villa,Southampton
+Home,L,1,2,Newcastle Utd,Southampton
+Home,L,1,2,Watford,Southampton
+Away,D,1,1,Leeds United,Southampton
+Home,L,0,6,Chelsea,Southampton
+Home,W,1,0,Arsenal,Southampton
+Away,L,0,2,Burnley,Southampton
+Away,D,2,2,Brighton,Southampton
+Home,L,1,2,Crystal Palace,Southampton
+Away,L,0,3,Brentford,Southampton
+Home,L,1,2,Liverpool,Southampton
+Away,L,1,4,Leicester City,Southampton
+Home,W,3,1,Southampton,Everton
+Away,D,2,2,Leeds United,Everton
+Away,W,2,0,Brighton,Everton
+Home,W,3,1,Burnley,Everton
+Away,L,0,3,Aston Villa,Everton
+Home,W,2,0,Norwich City,Everton
+Away,D,1,1,Manchester Utd,Everton
+Home,L,0,1,West Ham,Everton
+Home,L,2,5,Watford,Everton
+Away,L,1,2,Wolves,Everton
+Home,D,0,0,Tottenham,Everton
+Away,L,0,3,Manchester City,Everton
+Away,L,0,1,Brentford,Everton
+Home,L,1,4,Liverpool,Everton
+Home,W,2,1,Arsenal,Everton
+Away,L,1,3,Crystal Palace,Everton
+Away,D,1,1,Chelsea,Everton
+Home,L,2,3,Brighton,Everton
+Away,L,1,2,Norwich City,Everton
+Home,L,0,1,Aston Villa,Everton
+Away,L,1,3,Newcastle Utd,Everton
+Home,W,3,0,Leeds United,Everton
+Away,L,0,2,Southampton,Everton
+Home,L,0,1,Manchester City,Everton
+Away,L,0,5,Tottenham,Everton
+Home,L,0,1,Wolves,Everton
+Home,W,1,0,Newcastle Utd,Everton
+Away,L,1,2,West Ham,Everton
+Away,L,2,3,Burnley,Everton
+Home,W,1,0,Manchester Utd,Everton
+Home,D,1,1,Leicester City,Everton
+Away,L,0,2,Liverpool,Everton
+Home,W,1,0,Chelsea,Everton
+Away,W,2,1,Leicester City,Everton
+Away,D,0,0,Watford,Everton
+Home,L,2,3,Brentford,Everton
+Home,W,3,2,Crystal Palace,Everton
+Away,L,1,5,Arsenal,Everton
+Away,L,1,5,Manchester Utd,Leeds United
+Home,D,2,2,Everton,Leeds United
+Away,D,1,1,Burnley,Leeds United
+Home,L,0,3,Liverpool,Leeds United
+Away,D,1,1,Newcastle Utd,Leeds United
+Home,L,1,2,West Ham,Leeds United
+Home,W,1,0,Watford,Leeds United
+Away,L,0,1,Southampton,Leeds United
+Home,D,1,1,Wolves,Leeds United
+Away,W,2,1,Norwich City,Leeds United
+Home,D,1,1,Leicester City,Leeds United
+Away,L,1,2,Tottenham,Leeds United
+Away,D,0,0,Brighton,Leeds United
+Home,W,1,0,Crystal Palace,Leeds United
+Home,D,2,2,Brentford,Leeds United
+Away,L,2,3,Chelsea,Leeds United
+Away,L,0,7,Manchester City,Leeds United
+Home,L,1,4,Arsenal,Leeds United
+Home,W,3,1,Burnley,Leeds United
+Away,W,3,2,West Ham,Leeds United
+Home,L,0,1,Newcastle Utd,Leeds United
+Away,D,3,3,Aston Villa,Leeds United
+Away,L,0,3,Everton,Leeds United
+Home,L,2,4,Manchester Utd,Leeds United
+Away,L,0,6,Liverpool,Leeds United
+Home,L,0,4,Tottenham,Leeds United
+Away,L,0,1,Leicester City,Leeds United
+Home,L,0,3,Aston Villa,Leeds United
+Home,W,2,1,Norwich City,Leeds United
+Away,W,3,2,Wolves,Leeds United
+Home,D,1,1,Southampton,Leeds United
+Away,W,3,0,Watford,Leeds United
+Away,D,0,0,Crystal Palace,Leeds United
+Home,L,0,4,Manchester City,Leeds United
+Away,L,1,2,Arsenal,Leeds United
+Home,L,0,3,Chelsea,Leeds United
+Home,D,1,1,Brighton,Leeds United
+Away,W,2,1,Brentford,Leeds United
+Home,L,1,2,Brighton,Burnley
+Away,L,0,2,Liverpool,Burnley
+Home,D,1,1,Leeds United,Burnley
+Away,L,1,3,Everton,Burnley
+Home,L,0,1,Arsenal,Burnley
+Away,D,2,2,Leicester City,Burnley
+Home,D,0,0,Norwich City,Burnley
+Away,L,0,2,Manchester City,Burnley
+Away,D,2,2,Southampton,Burnley
+Home,W,3,1,Brentford,Burnley
+Away,D,1,1,Chelsea,Burnley
+Home,D,3,3,Crystal Palace,Burnley
+Away,D,0,0,Wolves,Burnley
+Away,L,0,1,Newcastle Utd,Burnley
+Home,D,0,0,West Ham,Burnley
+Away,L,1,3,Manchester Utd,Burnley
+Away,L,1,3,Leeds United,Burnley
+Away,D,0,0,Arsenal,Burnley
+Home,D,0,0,Watford,Burnley
+Home,D,1,1,Manchester Utd,Burnley
+Home,L,0,1,Liverpool,Burnley
+Away,W,3,0,Brighton,Burnley
+Home,W,1,0,Tottenham,Burnley
+Away,D,1,1,Crystal Palace,Burnley
+Home,L,0,2,Leicester City,Burnley
+Home,L,0,4,Chelsea,Burnley
+Away,L,0,2,Brentford,Burnley
+Home,L,0,2,Manchester City,Burnley
+Home,W,3,2,Everton,Burnley
+Away,L,0,2,Norwich City,Burnley
+Away,D,1,1,West Ham,Burnley
+Home,W,2,0,Southampton,Burnley
+Home,W,1,0,Wolves,Burnley
+Away,W,2,1,Watford,Burnley
+Home,L,1,3,Aston Villa,Burnley
+Away,L,0,1,Tottenham,Burnley
+Away,D,1,1,Aston Villa,Burnley
+Home,L,1,2,Newcastle Utd,Burnley
+Home,W,3,2,Aston Villa,Watford
+Away,L,0,2,Brighton,Watford
+Away,L,0,1,Tottenham,Watford
+Home,L,0,2,Wolves,Watford
+Away,W,3,1,Norwich City,Watford
+Home,D,1,1,Newcastle Utd,Watford
+Away,L,0,1,Leeds United,Watford
+Home,L,0,5,Liverpool,Watford
+Away,W,5,2,Everton,Watford
+Home,L,0,1,Southampton,Watford
+Away,L,0,1,Arsenal,Watford
+Home,W,4,1,Manchester Utd,Watford
+Away,L,2,4,Leicester City,Watford
+Home,L,1,2,Chelsea,Watford
+Home,L,1,3,Manchester City,Watford
+Away,L,1,2,Brentford,Watford
+Home,L,1,4,West Ham,Watford
+Home,L,0,1,Tottenham,Watford
+Away,D,1,1,Newcastle Utd,Watford
+Home,L,0,3,Norwich City,Watford
+Away,D,0,0,Burnley,Watford
+Away,L,0,1,West Ham,Watford
+Home,L,0,2,Brighton,Watford
+Away,W,1,0,Aston Villa,Watford
+Home,L,1,4,Crystal Palace,Watford
+Away,D,0,0,Manchester Utd,Watford
+Home,L,2,3,Arsenal,Watford
+Away,L,0,4,Wolves,Watford
+Away,W,2,1,Southampton,Watford
+Away,L,0,2,Liverpool,Watford
+Home,L,0,3,Leeds United,Watford
+Home,L,1,2,Brentford,Watford
+Away,L,1,5,Manchester City,Watford
+Home,L,1,2,Burnley,Watford
+Away,L,0,1,Crystal Palace,Watford
+Home,D,0,0,Everton,Watford
+Home,L,1,5,Leicester City,Watford
+Away,L,1,2,Chelsea,Watford
+Home,L,0,3,Liverpool,Norwich City
+Away,L,0,5,Manchester City,Norwich City
+Home,L,1,2,Leicester City,Norwich City
+Away,L,0,1,Arsenal,Norwich City
+Home,L,1,3,Watford,Norwich City
+Away,L,0,2,Everton,Norwich City
+Away,D,0,0,Burnley,Norwich City
+Home,D,0,0,Brighton,Norwich City
+Away,L,0,7,Chelsea,Norwich City
+Home,L,1,2,Leeds United,Norwich City
+Away,W,2,1,Brentford,Norwich City
+Home,W,2,1,Southampton,Norwich City
+Home,D,0,0,Wolves,Norwich City
+Away,D,1,1,Newcastle Utd,Norwich City
+Away,L,0,3,Tottenham,Norwich City
+Home,L,0,1,Manchester Utd,Norwich City
+Home,L,0,2,Aston Villa,Norwich City
+Home,L,0,5,Arsenal,Norwich City
+Away,L,0,3,Crystal Palace,Norwich City
+Away,L,0,2,West Ham,Norwich City
+Home,W,2,1,Everton,Norwich City
+Away,W,3,0,Watford,Norwich City
+Home,D,1,1,Crystal Palace,Norwich City
+Home,L,0,4,Manchester City,Norwich City
+Away,L,1,3,Liverpool,Norwich City
+Away,L,0,2,Southampton,Norwich City
+Home,L,1,3,Brentford,Norwich City
+Home,L,1,3,Chelsea,Norwich City
+Away,L,1,2,Leeds United,Norwich City
+Away,D,0,0,Brighton,Norwich City
+Home,W,2,0,Burnley,Norwich City
+Away,L,2,3,Manchester Utd,Norwich City
+Home,L,0,3,Newcastle Utd,Norwich City
+Away,L,0,2,Aston Villa,Norwich City
+Home,L,0,4,West Ham,Norwich City
+Away,L,0,3,Leicester City,Norwich City
+Away,D,1,1,Wolves,Norwich City
+Home,L,0,5,Tottenham,Norwich City
+Away,W,3,1,Wolves,Manchester City
+Home,L,2,5,Leicester City,Manchester City
+Away,D,1,1,Leeds United,Manchester City
+Home,W,1,0,Arsenal,Manchester City
+Away,D,1,1,West Ham,Manchester City
+Away,W,1,0,Sheffield Utd,Manchester City
+Home,D,1,1,Liverpool,Manchester City
+Away,L,0,2,Tottenham,Manchester City
+Home,W,5,0,Burnley,Manchester City
+Home,W,2,0,Fulham,Manchester City
+Away,D,0,0,Manchester Utd,Manchester City
+Home,D,1,1,West Brom,Manchester City
+Away,W,1,0,Southampton,Manchester City
+Home,W,2,0,Newcastle Utd,Manchester City
+Away,W,3,1,Chelsea,Manchester City
+Home,W,1,0,Brighton,Manchester City
+Home,W,4,0,Crystal Palace,Manchester City
+Home,W,2,0,Aston Villa,Manchester City
+Away,W,5,0,West Brom,Manchester City
+Home,W,1,0,Sheffield Utd,Manchester City
+Away,W,2,0,Burnley,Manchester City
+Away,W,4,1,Liverpool,Manchester City
+Home,W,3,0,Tottenham,Manchester City
+Away,W,3,1,Everton,Manchester City
+Away,W,1,0,Arsenal,Manchester City
+Home,W,2,1,West Ham,Manchester City
+Home,W,4,1,Wolves,Manchester City
+Home,L,0,2,Manchester Utd,Manchester City
+Home,W,5,2,Southampton,Manchester City
+Away,W,3,0,Fulham,Manchester City
+Away,W,2,0,Leicester City,Manchester City
+Home,L,1,2,Leeds United,Manchester City
+Away,W,2,1,Aston Villa,Manchester City
+Away,W,2,0,Crystal Palace,Manchester City
+Home,L,1,2,Chelsea,Manchester City
+Away,W,4,3,Newcastle Utd,Manchester City
+Away,L,2,3,Brighton,Manchester City
+Home,W,5,0,Everton,Manchester City
+Home,L,1,3,Crystal Palace,Manchester Utd
+Away,W,3,2,Brighton,Manchester Utd
+Home,L,1,6,Tottenham,Manchester Utd
+Away,W,4,1,Newcastle Utd,Manchester Utd
+Home,D,0,0,Chelsea,Manchester Utd
+Home,L,0,1,Arsenal,Manchester Utd
+Away,W,3,1,Everton,Manchester Utd
+Home,W,1,0,West Brom,Manchester Utd
+Away,W,3,2,Southampton,Manchester Utd
+Away,W,3,1,West Ham,Manchester Utd
+Home,D,0,0,Manchester City,Manchester Utd
+Away,W,3,2,Sheffield Utd,Manchester Utd
+Home,W,6,2,Leeds United,Manchester Utd
+Away,D,2,2,Leicester City,Manchester Utd
+Home,W,1,0,Wolves,Manchester Utd
+Home,W,2,1,Aston Villa,Manchester Utd
+Away,W,1,0,Burnley,Manchester Utd
+Away,D,0,0,Liverpool,Manchester Utd
+Away,W,2,1,Fulham,Manchester Utd
+Home,L,1,2,Sheffield Utd,Manchester Utd
+Away,D,0,0,Arsenal,Manchester Utd
+Home,W,9,0,Southampton,Manchester Utd
+Home,D,3,3,Everton,Manchester Utd
+Away,D,1,1,West Brom,Manchester Utd
+Home,W,3,1,Newcastle Utd,Manchester Utd
+Away,D,0,0,Chelsea,Manchester Utd
+Away,D,0,0,Crystal Palace,Manchester Utd
+Away,W,2,0,Manchester City,Manchester Utd
+Home,W,1,0,West Ham,Manchester Utd
+Home,W,2,1,Brighton,Manchester Utd
+Away,W,3,1,Tottenham,Manchester Utd
+Home,W,3,1,Burnley,Manchester Utd
+Away,D,0,0,Leeds United,Manchester Utd
+Away,W,3,1,Aston Villa,Manchester Utd
+Home,L,1,2,Leicester City,Manchester Utd
+Home,L,2,4,Liverpool,Manchester Utd
+Home,D,1,1,Fulham,Manchester Utd
+Away,W,2,1,Wolves,Manchester Utd
+Home,W,4,3,Leeds United,Liverpool
+Away,W,2,0,Chelsea,Liverpool
+Home,W,3,1,Arsenal,Liverpool
+Away,L,2,7,Aston Villa,Liverpool
+Away,D,2,2,Everton,Liverpool
+Home,W,2,1,Sheffield Utd,Liverpool
+Home,W,2,1,West Ham,Liverpool
+Away,D,1,1,Manchester City,Liverpool
+Home,W,3,0,Leicester City,Liverpool
+Away,D,1,1,Brighton,Liverpool
+Home,W,4,0,Wolves,Liverpool
+Away,D,1,1,Fulham,Liverpool
+Home,W,2,1,Tottenham,Liverpool
+Away,W,7,0,Crystal Palace,Liverpool
+Home,D,1,1,West Brom,Liverpool
+Away,D,0,0,Newcastle Utd,Liverpool
+Away,L,0,1,Southampton,Liverpool
+Home,D,0,0,Manchester Utd,Liverpool
+Home,L,0,1,Burnley,Liverpool
+Away,W,3,1,Tottenham,Liverpool
+Away,W,3,1,West Ham,Liverpool
+Home,L,0,1,Brighton,Liverpool
+Home,L,1,4,Manchester City,Liverpool
+Away,L,1,3,Leicester City,Liverpool
+Home,L,0,2,Everton,Liverpool
+Away,W,2,0,Sheffield Utd,Liverpool
+Home,L,0,1,Chelsea,Liverpool
+Home,L,0,1,Fulham,Liverpool
+Away,W,1,0,Wolves,Liverpool
+Away,W,3,0,Arsenal,Liverpool
+Home,W,2,1,Aston Villa,Liverpool
+Away,D,1,1,Leeds United,Liverpool
+Home,D,1,1,Newcastle Utd,Liverpool
+Home,W,2,0,Southampton,Liverpool
+Away,W,4,2,Manchester Utd,Liverpool
+Away,W,2,1,West Brom,Liverpool
+Away,W,3,0,Burnley,Liverpool
+Home,W,2,0,Crystal Palace,Liverpool
+Away,W,3,1,Brighton,Chelsea
+Home,L,0,2,Liverpool,Chelsea
+Away,D,3,3,West Brom,Chelsea
+Home,W,4,0,Crystal Palace,Chelsea
+Home,D,3,3,Southampton,Chelsea
+Away,D,0,0,Manchester Utd,Chelsea
+Away,W,3,0,Burnley,Chelsea
+Home,W,4,1,Sheffield Utd,Chelsea
+Away,W,2,0,Newcastle Utd,Chelsea
+Home,D,0,0,Tottenham,Chelsea
+Home,W,3,1,Leeds United,Chelsea
+Away,L,0,1,Everton,Chelsea
+Away,L,1,2,Wolves,Chelsea
+Home,W,3,0,West Ham,Chelsea
+Away,L,1,3,Arsenal,Chelsea
+Home,D,1,1,Aston Villa,Chelsea
+Home,L,1,3,Manchester City,Chelsea
+Away,W,1,0,Fulham,Chelsea
+Away,L,0,2,Leicester City,Chelsea
+Home,D,0,0,Wolves,Chelsea
+Home,W,2,0,Burnley,Chelsea
+Away,W,1,0,Tottenham,Chelsea
+Away,W,2,1,Sheffield Utd,Chelsea
+Home,W,2,0,Newcastle Utd,Chelsea
+Away,D,1,1,Southampton,Chelsea
+Home,D,0,0,Manchester Utd,Chelsea
+Away,W,1,0,Liverpool,Chelsea
+Home,W,2,0,Everton,Chelsea
+Away,D,0,0,Leeds United,Chelsea
+Home,L,2,5,West Brom,Chelsea
+Away,W,4,1,Crystal Palace,Chelsea
+Home,D,0,0,Brighton,Chelsea
+Away,W,1,0,West Ham,Chelsea
+Home,W,2,0,Fulham,Chelsea
+Away,W,2,1,Manchester City,Chelsea
+Home,L,0,1,Arsenal,Chelsea
+Home,W,2,1,Leicester City,Chelsea
+Away,L,1,2,Aston Villa,Chelsea
+Away,W,3,0,West Brom,Leicester City
+Home,W,4,2,Burnley,Leicester City
+Away,W,5,2,Manchester City,Leicester City
+Home,L,0,3,West Ham,Leicester City
+Home,L,0,1,Aston Villa,Leicester City
+Away,W,1,0,Arsenal,Leicester City
+Away,W,4,1,Leeds United,Leicester City
+Home,W,1,0,Wolves,Leicester City
+Away,L,0,3,Liverpool,Leicester City
+Home,L,1,2,Fulham,Leicester City
+Away,W,2,1,Sheffield Utd,Leicester City
+Home,W,3,0,Brighton,Leicester City
+Home,L,0,2,Everton,Leicester City
+Away,W,2,0,Tottenham,Leicester City
+Home,D,2,2,Manchester Utd,Leicester City
+Away,D,1,1,Crystal Palace,Leicester City
+Away,W,2,1,Newcastle Utd,Leicester City
+Home,W,2,0,Southampton,Leicester City
+Home,W,2,0,Chelsea,Leicester City
+Away,D,1,1,Everton,Leicester City
+Home,L,1,3,Leeds United,Leicester City
+Away,W,2,0,Fulham,Leicester City
+Away,D,0,0,Wolves,Leicester City
+Home,W,3,1,Liverpool,Leicester City
+Away,W,2,1,Aston Villa,Leicester City
+Home,L,1,3,Arsenal,Leicester City
+Away,D,1,1,Burnley,Leicester City
+Away,W,2,1,Brighton,Leicester City
+Home,W,5,0,Sheffield Utd,Leicester City
+Home,L,0,2,Manchester City,Leicester City
+Away,L,2,3,West Ham,Leicester City
+Home,W,3,0,West Brom,Leicester City
+Home,W,2,1,Crystal Palace,Leicester City
+Away,D,1,1,Southampton,Leicester City
+Home,L,2,4,Newcastle Utd,Leicester City
+Away,W,2,1,Manchester Utd,Leicester City
+Away,L,1,2,Chelsea,Leicester City
+Home,L,2,4,Tottenham,Leicester City
+Home,L,0,2,Newcastle Utd,West Ham Utd
+Away,L,1,2,Arsenal,West Ham Utd
+Home,W,4,0,Wolves,West Ham Utd
+Away,W,3,0,Leicester City,West Ham Utd
+Away,D,3,3,Tottenham,West Ham Utd
+Home,D,1,1,Manchester City,West Ham Utd
+Away,L,1,2,Liverpool,West Ham Utd
+Home,W,1,0,Fulham,West Ham Utd
+Away,W,1,0,Sheffield Utd,West Ham Utd
+Home,W,2,1,Aston Villa,West Ham Utd
+Home,L,1,3,Manchester Utd,West Ham Utd
+Away,W,2,1,Leeds United,West Ham Utd
+Home,D,1,1,Crystal Palace,West Ham Utd
+Away,L,0,3,Chelsea,West Ham Utd
+Home,D,2,2,Brighton,West Ham Utd
+Away,D,0,0,Southampton,West Ham Utd
+Away,W,1,0,Everton,West Ham Utd
+Home,W,1,0,Burnley,West Ham Utd
+Home,W,2,1,West Brom,West Ham Utd
+Away,W,3,2,Crystal Palace,West Ham Utd
+Home,L,1,3,Liverpool,West Ham Utd
+Away,W,3,1,Aston Villa,West Ham Utd
+Away,D,0,0,Fulham,West Ham Utd
+Home,W,3,0,Sheffield Utd,West Ham Utd
+Home,W,2,1,Tottenham,West Ham Utd
+Away,L,1,2,Manchester City,West Ham Utd
+Home,W,2,0,Leeds United,West Ham Utd
+Away,L,0,1,Manchester Utd,West Ham Utd
+Home,D,3,3,Arsenal,West Ham Utd
+Away,W,3,2,Wolves,West Ham Utd
+Home,W,3,2,Leicester City,West Ham Utd
+Away,L,2,3,Newcastle Utd,West Ham Utd
+Home,L,0,1,Chelsea,West Ham Utd
+Away,W,2,1,Burnley,West Ham Utd
+Home,L,0,1,Everton,West Ham Utd
+Away,D,1,1,Brighton,West Ham Utd
+Away,W,3,1,West Brom,West Ham Utd
+Home,W,3,0,Southampton,West Ham Utd
+Home,L,0,1,Everton,Tottenham
+Away,W,5,2,Southampton,Tottenham
+Home,D,1,1,Newcastle Utd,Tottenham
+Away,W,6,1,Manchester Utd,Tottenham
+Home,D,3,3,West Ham,Tottenham
+Away,W,1,0,Burnley,Tottenham
+Home,W,2,1,Brighton,Tottenham
+Away,W,1,0,West Brom,Tottenham
+Home,W,2,0,Manchester City,Tottenham
+Away,D,0,0,Chelsea,Tottenham
+Home,W,2,0,Arsenal,Tottenham
+Away,D,1,1,Crystal Palace,Tottenham
+Away,L,1,2,Liverpool,Tottenham
+Home,L,0,2,Leicester City,Tottenham
+Away,D,1,1,Wolves,Tottenham
+Home,W,3,0,Leeds United,Tottenham
+Home,D,1,1,Fulham,Tottenham
+Away,W,3,1,Sheffield Utd,Tottenham
+Home,L,1,3,Liverpool,Tottenham
+Away,L,0,1,Brighton,Tottenham
+Home,L,0,1,Chelsea,Tottenham
+Home,W,2,0,West Brom,Tottenham
+Away,L,0,3,Manchester City,Tottenham
+Away,L,1,2,West Ham,Tottenham
+Home,W,4,0,Burnley,Tottenham
+Away,W,1,0,Fulham,Tottenham
+Home,W,4,1,Crystal Palace,Tottenham
+Away,L,1,2,Arsenal,Tottenham
+Away,W,2,0,Aston Villa,Tottenham
+Away,D,2,2,Newcastle Utd,Tottenham
+Home,L,1,3,Manchester Utd,Tottenham
+Away,D,2,2,Everton,Tottenham
+Home,W,2,1,Southampton,Tottenham
+Home,W,4,0,Sheffield Utd,Tottenham
+Away,L,1,3,Leeds United,Tottenham
+Home,W,2,0,Wolves,Tottenham
+Home,L,1,2,Aston Villa,Tottenham
+Away,W,4,2,Leicester City,Tottenham
+Away,W,3,0,Fulham,Arsenal
+Home,W,2,1,West Ham,Arsenal
+Away,L,1,3,Liverpool,Arsenal
+Home,W,2,1,Sheffield Utd,Arsenal
+Away,L,0,1,Manchester City,Arsenal
+Home,L,0,1,Leicester City,Arsenal
+Away,W,1,0,Manchester Utd,Arsenal
+Home,L,0,3,Aston Villa,Arsenal
+Away,D,0,0,Leeds United,Arsenal
+Home,L,1,2,Wolves,Arsenal
+Away,L,0,2,Tottenham,Arsenal
+Home,L,0,1,Burnley,Arsenal
+Home,D,1,1,Southampton,Arsenal
+Away,L,1,2,Everton,Arsenal
+Home,W,3,1,Chelsea,Arsenal
+Away,W,1,0,Brighton,Arsenal
+Away,W,4,0,West Brom,Arsenal
+Home,D,0,0,Crystal Palace,Arsenal
+Home,W,3,0,Newcastle Utd,Arsenal
+Away,W,3,1,Southampton,Arsenal
+Home,D,0,0,Manchester Utd,Arsenal
+Away,L,1,2,Wolves,Arsenal
+Away,L,0,1,Aston Villa,Arsenal
+Home,W,4,2,Leeds United,Arsenal
+Home,L,0,1,Manchester City,Arsenal
+Away,W,3,1,Leicester City,Arsenal
+Away,D,1,1,Burnley,Arsenal
+Home,W,2,1,Tottenham,Arsenal
+Away,D,3,3,West Ham,Arsenal
+Home,L,0,3,Liverpool,Arsenal
+Away,W,3,0,Sheffield Utd,Arsenal
+Home,D,1,1,Fulham,Arsenal
+Home,L,0,1,Everton,Arsenal
+Away,W,2,0,Newcastle Utd,Arsenal
+Home,W,3,1,West Brom,Arsenal
+Away,W,1,0,Chelsea,Arsenal
+Away,W,3,1,Crystal Palace,Arsenal
+Home,W,2,0,Brighton,Arsenal
+Away,L,3,4,Liverpool,Leeds United
+Home,W,4,3,Fulham,Leeds United
+Away,W,1,0,Sheffield Utd,Leeds United
+Home,D,1,1,Manchester City,Leeds United
+Home,L,0,1,Wolves,Leeds United
+Away,W,3,0,Aston Villa,Leeds United
+Home,L,1,4,Leicester City,Leeds United
+Away,L,1,4,Crystal Palace,Leeds United
+Home,D,0,0,Arsenal,Leeds United
+Away,W,1,0,Everton,Leeds United
+Away,L,1,3,Chelsea,Leeds United
+Home,L,1,2,West Ham,Leeds United
+Home,W,5,2,Newcastle Utd,Leeds United
+Away,L,2,6,Manchester Utd,Leeds United
+Home,W,1,0,Burnley,Leeds United
+Away,W,5,0,West Brom,Leeds United
+Away,L,0,3,Tottenham,Leeds United
+Home,L,0,1,Brighton,Leeds United
+Away,W,2,1,Newcastle Utd,Leeds United
+Away,W,3,1,Leicester City,Leeds United
+Home,L,1,2,Everton,Leeds United
+Home,W,2,0,Crystal Palace,Leeds United
+Away,L,2,4,Arsenal,Leeds United
+Away,L,0,1,Wolves,Leeds United
+Home,W,3,0,Southampton,Leeds United
+Home,L,0,1,Aston Villa,Leeds United
+Away,L,0,2,West Ham,Leeds United
+Home,D,0,0,Chelsea,Leeds United
+Away,W,2,1,Fulham,Leeds United
+Home,W,2,1,Sheffield Utd,Leeds United
+Away,W,2,1,Manchester City,Leeds United
+Home,D,1,1,Liverpool,Leeds United
+Home,D,0,0,Manchester Utd,Leeds United
+Away,L,0,2,Brighton,Leeds United
+Home,W,3,1,Tottenham,Leeds United
+Away,W,4,0,Burnley,Leeds United
+Away,W,2,0,Southampton,Leeds United
+Home,W,3,1,West Brom,Leeds United
+Away,W,1,0,Tottenham,Everton
+Home,W,5,2,West Brom,Everton
+Away,W,2,1,Crystal Palace,Everton
+Home,W,4,2,Brighton,Everton
+Home,D,2,2,Liverpool,Everton
+Away,L,0,2,Southampton,Everton
+Away,L,1,2,Newcastle Utd,Everton
+Home,L,1,3,Manchester Utd,Everton
+Away,W,3,2,Fulham,Everton
+Home,L,0,1,Leeds United,Everton
+Away,D,1,1,Burnley,Everton
+Home,W,1,0,Chelsea,Everton
+Away,W,2,0,Leicester City,Everton
+Home,W,2,1,Arsenal,Everton
+Away,W,1,0,Sheffield Utd,Everton
+Home,L,0,1,West Ham,Everton
+Away,W,2,1,Wolves,Everton
+Home,D,1,1,Leicester City,Everton
+Home,L,0,2,Newcastle Utd,Everton
+Away,W,2,1,Leeds United,Everton
+Away,D,3,3,Manchester Utd,Everton
+Home,L,0,2,Fulham,Everton
+Home,L,1,3,Manchester City,Everton
+Away,W,2,0,Liverpool,Everton
+Home,W,1,0,Southampton,Everton
+Away,W,1,0,West Brom,Everton
+Away,L,0,2,Chelsea,Everton
+Home,L,1,2,Burnley,Everton
+Home,D,1,1,Crystal Palace,Everton
+Away,D,0,0,Brighton,Everton
+Home,D,2,2,Tottenham,Everton
+Away,W,1,0,Arsenal,Everton
+Home,L,1,2,Aston Villa,Everton
+Away,W,1,0,West Ham,Everton
+Away,D,0,0,Aston Villa,Everton
+Home,L,0,1,Sheffield Utd,Everton
+Home,W,1,0,Wolves,Everton
+Away,L,0,5,Manchester City,Everton
+Home,W,1,0,Sheffield Utd,Aston Villa
+Away,W,3,0,Fulham,Aston Villa
+Home,W,7,2,Liverpool,Aston Villa
+Away,W,1,0,Leicester City,Aston Villa
+Home,L,0,3,Leeds United,Aston Villa
+Home,L,3,4,Southampton,Aston Villa
+Away,W,3,0,Arsenal,Aston Villa
+Home,L,1,2,Brighton,Aston Villa
+Away,L,1,2,West Ham,Aston Villa
+Away,W,1,0,Wolves,Aston Villa
+Home,D,0,0,Burnley,Aston Villa
+Away,W,3,0,West Brom,Aston Villa
+Home,W,3,0,Crystal Palace,Aston Villa
+Away,D,1,1,Chelsea,Aston Villa
+Away,L,1,2,Manchester Utd,Aston Villa
+Away,L,0,2,Manchester City,Aston Villa
+Home,W,2,0,Newcastle Utd,Aston Villa
+Away,L,2,3,Burnley,Aston Villa
+Away,W,1,0,Southampton,Aston Villa
+Home,L,1,3,West Ham,Aston Villa
+Home,W,1,0,Arsenal,Aston Villa
+Away,D,0,0,Brighton,Aston Villa
+Home,L,1,2,Leicester City,Aston Villa
+Away,W,1,0,Leeds United,Aston Villa
+Away,L,0,1,Sheffield Utd,Aston Villa
+Home,D,0,0,Wolves,Aston Villa
+Away,D,1,1,Newcastle Utd,Aston Villa
+Home,L,0,2,Tottenham,Aston Villa
+Home,W,3,1,Fulham,Aston Villa
+Away,L,1,2,Liverpool,Aston Villa
+Home,L,1,2,Manchester City,Aston Villa
+Home,D,2,2,West Brom,Aston Villa
+Away,W,2,1,Everton,Aston Villa
+Home,L,1,3,Manchester Utd,Aston Villa
+Home,D,0,0,Everton,Aston Villa
+Away,L,2,3,Crystal Palace,Aston Villa
+Away,W,2,1,Tottenham,Aston Villa
+Home,W,2,1,Chelsea,Aston Villa
+Away,W,2,0,West Ham,Newcastle Utd
+Home,L,0,3,Brighton,Newcastle Utd
+Away,D,1,1,Tottenham,Newcastle Utd
+Home,W,3,1,Burnley,Newcastle Utd
+Home,L,1,4,Manchester Utd,Newcastle Utd
+Away,D,1,1,Wolves,Newcastle Utd
+Home,W,2,1,Everton,Newcastle Utd
+Away,L,0,2,Southampton,Newcastle Utd
+Home,L,0,2,Chelsea,Newcastle Utd
+Away,W,2,0,Crystal Palace,Newcastle Utd
+Home,W,2,1,West Brom,Newcastle Utd
+Away,L,2,5,Leeds United,Newcastle Utd
+Home,D,1,1,Fulham,Newcastle Utd
+Away,L,0,2,Manchester City,Newcastle Utd
+Home,D,0,0,Liverpool,Newcastle Utd
+Home,L,1,2,Leicester City,Newcastle Utd
+Away,L,0,1,Sheffield Utd,Newcastle Utd
+Away,L,0,3,Arsenal,Newcastle Utd
+Away,L,0,2,Aston Villa,Newcastle Utd
+Home,L,1,2,Leeds United,Newcastle Utd
+Away,W,2,0,Everton,Newcastle Utd
+Home,L,1,2,Crystal Palace,Newcastle Utd
+Home,W,3,2,Southampton,Newcastle Utd
+Away,L,0,2,Chelsea,Newcastle Utd
+Away,L,1,3,Manchester Utd,Newcastle Utd
+Home,D,1,1,Wolves,Newcastle Utd
+Away,D,0,0,West Brom,Newcastle Utd
+Home,D,1,1,Aston Villa,Newcastle Utd
+Away,L,0,3,Brighton,Newcastle Utd
+Home,D,2,2,Tottenham,Newcastle Utd
+Away,W,2,1,Burnley,Newcastle Utd
+Home,W,3,2,West Ham,Newcastle Utd
+Away,D,1,1,Liverpool,Newcastle Utd
+Home,L,0,2,Arsenal,Newcastle Utd
+Away,W,4,2,Leicester City,Newcastle Utd
+Home,L,3,4,Manchester City,Newcastle Utd
+Home,W,1,0,Sheffield Utd,Newcastle Utd
+Away,W,2,0,Fulham,Newcastle Utd
+Away,W,2,0,Sheffield Utd,Wolves
+Home,L,1,3,Manchester City,Wolves
+Away,L,0,4,West Ham,Wolves
+Home,W,1,0,Fulham,Wolves
+Away,W,1,0,Leeds United,Wolves
+Home,D,1,1,Newcastle Utd,Wolves
+Home,W,2,0,Crystal Palace,Wolves
+Away,L,0,1,Leicester City,Wolves
+Home,D,1,1,Southampton,Wolves
+Away,W,2,1,Arsenal,Wolves
+Away,L,0,4,Liverpool,Wolves
+Home,L,0,1,Aston Villa,Wolves
+Home,W,2,1,Chelsea,Wolves
+Away,L,1,2,Burnley,Wolves
+Home,D,1,1,Tottenham,Wolves
+Away,L,0,1,Manchester Utd,Wolves
+Away,D,3,3,Brighton,Wolves
+Home,L,1,2,Everton,Wolves
+Home,L,2,3,West Brom,Wolves
+Away,D,0,0,Chelsea,Wolves
+Away,L,0,1,Crystal Palace,Wolves
+Home,W,2,1,Arsenal,Wolves
+Home,D,0,0,Leicester City,Wolves
+Away,W,2,1,Southampton,Wolves
+Home,W,1,0,Leeds United,Wolves
+Away,D,1,1,Newcastle Utd,Wolves
+Away,L,1,4,Manchester City,Wolves
+Away,D,0,0,Aston Villa,Wolves
+Home,L,0,1,Liverpool,Wolves
+Home,L,2,3,West Ham,Wolves
+Away,W,1,0,Fulham,Wolves
+Home,W,1,0,Sheffield Utd,Wolves
+Home,L,0,4,Burnley,Wolves
+Away,D,1,1,West Brom,Wolves
+Home,W,2,1,Brighton,Wolves
+Away,L,0,2,Tottenham,Wolves
+Away,L,0,1,Everton,Wolves
+Home,L,1,2,Manchester Utd,Wolves
+Home,W,1,0,Southampton,Crystal Palace
+Away,W,3,1,Manchester Utd,Crystal Palace
+Home,L,1,2,Everton,Crystal Palace
+Away,L,0,4,Chelsea,Crystal Palace
+Home,D,1,1,Brighton,Crystal Palace
+Away,W,2,1,Fulham,Crystal Palace
+Away,L,0,2,Wolves,Crystal Palace
+Home,W,4,1,Leeds United,Crystal Palace
+Away,L,0,1,Burnley,Crystal Palace
+Home,L,0,2,Newcastle Utd,Crystal Palace
+Away,W,5,1,West Brom,Crystal Palace
+Home,D,1,1,Tottenham,Crystal Palace
+Away,D,1,1,West Ham,Crystal Palace
+Home,L,0,7,Liverpool,Crystal Palace
+Away,L,0,3,Aston Villa,Crystal Palace
+Home,D,1,1,Leicester City,Crystal Palace
+Home,W,2,0,Sheffield Utd,Crystal Palace
+Away,D,0,0,Arsenal,Crystal Palace
+Away,L,0,4,Manchester City,Crystal Palace
+Home,L,2,3,West Ham,Crystal Palace
+Home,W,1,0,Wolves,Crystal Palace
+Away,W,2,1,Newcastle Utd,Crystal Palace
+Away,L,0,2,Leeds United,Crystal Palace
+Home,L,0,3,Burnley,Crystal Palace
+Away,W,2,1,Brighton,Crystal Palace
+Home,D,0,0,Fulham,Crystal Palace
+Home,D,0,0,Manchester Utd,Crystal Palace
+Away,L,1,4,Tottenham,Crystal Palace
+Home,W,1,0,West Brom,Crystal Palace
+Away,D,1,1,Everton,Crystal Palace
+Home,L,1,4,Chelsea,Crystal Palace
+Away,L,1,2,Leicester City,Crystal Palace
+Home,L,0,2,Manchester City,Crystal Palace
+Away,W,2,0,Sheffield Utd,Crystal Palace
+Away,L,1,3,Southampton,Crystal Palace
+Home,W,3,2,Aston Villa,Crystal Palace
+Home,L,1,3,Arsenal,Crystal Palace
+Away,L,0,2,Liverpool,Crystal Palace
+Away,L,0,1,Crystal Palace,Southampton
+Home,L,2,5,Tottenham,Southampton
+Away,W,1,0,Burnley,Southampton
+Home,W,2,0,West Brom,Southampton
+Away,D,3,3,Chelsea,Southampton
+Home,W,2,0,Everton,Southampton
+Away,W,4,3,Aston Villa,Southampton
+Home,W,2,0,Newcastle Utd,Southampton
+Away,D,1,1,Wolves,Southampton
+Home,L,2,3,Manchester Utd,Southampton
+Away,W,2,1,Brighton,Southampton
+Home,W,3,0,Sheffield Utd,Southampton
+Away,D,1,1,Arsenal,Southampton
+Home,L,0,1,Manchester City,Southampton
+Away,D,0,0,Fulham,Southampton
+Home,D,0,0,West Ham,Southampton
+Home,W,1,0,Liverpool,Southampton
+Away,L,0,2,Leicester City,Southampton
+Home,L,1,3,Arsenal,Southampton
+Home,L,0,1,Aston Villa,Southampton
+Away,L,0,9,Manchester Utd,Southampton
+Away,L,2,3,Newcastle Utd,Southampton
+Home,L,1,2,Wolves,Southampton
+Home,D,1,1,Chelsea,Southampton
+Away,L,0,3,Leeds United,Southampton
+Away,L,0,1,Everton,Southampton
+Away,W,2,0,Sheffield Utd,Southampton
+Away,L,2,5,Manchester City,Southampton
+Home,L,1,2,Brighton,Southampton
+Home,W,3,2,Burnley,Southampton
+Away,L,0,3,West Brom,Southampton
+Away,L,1,2,Tottenham,Southampton
+Home,D,1,1,Leicester City,Southampton
+Away,L,0,2,Liverpool,Southampton
+Home,W,3,1,Crystal Palace,Southampton
+Home,W,3,1,Fulham,Southampton
+Home,L,0,2,Leeds United,Southampton
+Away,L,0,3,West Ham,Southampton
+Home,L,1,3,Chelsea,Brighton
+Away,W,3,0,Newcastle Utd,Brighton
+Home,L,2,3,Manchester Utd,Brighton
+Away,L,2,4,Everton,Brighton
+Away,D,1,1,Crystal Palace,Brighton
+Home,D,1,1,West Brom,Brighton
+Away,L,1,2,Tottenham,Brighton
+Home,D,0,0,Burnley,Brighton
+Away,W,2,1,Aston Villa,Brighton
+Home,D,1,1,Liverpool,Brighton
+Home,L,1,2,Southampton,Brighton
+Away,L,0,3,Leicester City,Brighton
+Away,D,0,0,Fulham,Brighton
+Home,D,1,1,Sheffield Utd,Brighton
+Away,D,2,2,West Ham,Brighton
+Home,L,0,1,Arsenal,Brighton
+Home,D,3,3,Wolves,Brighton
+Away,L,0,1,Manchester City,Brighton
+Away,W,1,0,Leeds United,Brighton
+Home,D,0,0,Fulham,Brighton
+Home,W,1,0,Tottenham,Brighton
+Away,W,1,0,Liverpool,Brighton
+Away,D,1,1,Burnley,Brighton
+Home,D,0,0,Aston Villa,Brighton
+Home,L,1,2,Crystal Palace,Brighton
+Away,L,0,1,West Brom,Brighton
+Home,L,1,2,Leicester City,Brighton
+Away,W,2,1,Southampton,Brighton
+Home,W,3,0,Newcastle Utd,Brighton
+Away,L,1,2,Manchester Utd,Brighton
+Home,D,0,0,Everton,Brighton
+Away,D,0,0,Chelsea,Brighton
+Away,L,0,1,Sheffield Utd,Brighton
+Home,W,2,0,Leeds United,Brighton
+Away,L,1,2,Wolves,Brighton
+Home,D,1,1,West Ham,Brighton
+Home,W,3,2,Manchester City,Brighton
+Away,L,0,2,Arsenal,Brighton
+Away,L,2,4,Leicester City,Burnley
+Home,L,0,1,Southampton,Burnley
+Away,L,1,3,Newcastle Utd,Burnley
+Away,D,0,0,West Brom,Burnley
+Home,L,0,1,Tottenham,Burnley
+Home,L,0,3,Chelsea,Burnley
+Away,D,0,0,Brighton,Burnley
+Home,W,1,0,Crystal Palace,Burnley
+Away,L,0,5,Manchester City,Burnley
+Home,D,1,1,Everton,Burnley
+Away,W,1,0,Arsenal,Burnley
+Away,D,0,0,Aston Villa,Burnley
+Home,W,2,1,Wolves,Burnley
+Away,L,0,1,Leeds United,Burnley
+Home,W,1,0,Sheffield Utd,Burnley
+Home,L,0,1,Manchester Utd,Burnley
+Away,L,0,1,West Ham,Burnley
+Away,W,1,0,Liverpool,Burnley
+Home,W,3,2,Aston Villa,Burnley
+Away,L,0,2,Chelsea,Burnley
+Home,L,0,2,Manchester City,Burnley
+Home,D,1,1,Brighton,Burnley
+Away,W,3,0,Crystal Palace,Burnley
+Home,D,1,1,Fulham,Burnley
+Home,D,0,0,West Brom,Burnley
+Away,L,0,4,Tottenham,Burnley
+Home,D,1,1,Leicester City,Burnley
+Home,D,1,1,Arsenal,Burnley
+Away,W,2,1,Everton,Burnley
+Away,L,2,3,Southampton,Burnley
+Home,L,1,2,Newcastle Utd,Burnley
+Away,L,1,3,Manchester Utd,Burnley
+Away,W,4,0,Wolves,Burnley
+Home,L,1,2,West Ham,Burnley
+Away,W,2,0,Fulham,Burnley
+Home,L,0,4,Leeds United,Burnley
+Home,L,0,3,Liverpool,Burnley
+Away,L,0,1,Sheffield Utd,Burnley
+Home,L,0,3,Arsenal,Fulham
+Away,L,3,4,Leeds United,Fulham
+Home,L,0,3,Aston Villa,Fulham
+Away,L,0,1,Wolves,Fulham
+Away,D,1,1,Sheffield Utd,Fulham
+Home,L,1,2,Crystal Palace,Fulham
+Home,W,2,0,West Brom,Fulham
+Away,L,0,1,West Ham,Fulham
+Home,L,2,3,Everton,Fulham
+Away,W,2,1,Leicester City,Fulham
+Away,L,0,2,Manchester City,Fulham
+Home,D,1,1,Liverpool,Fulham
+Home,D,0,0,Brighton,Fulham
+Away,D,1,1,Newcastle Utd,Fulham
+Home,D,0,0,Southampton,Fulham
+Away,D,1,1,Tottenham,Fulham
+Home,L,0,1,Chelsea,Fulham
+Home,L,1,2,Manchester Utd,Fulham
+Away,D,0,0,Brighton,Fulham
+Away,D,2,2,West Brom,Fulham
+Home,L,0,2,Leicester City,Fulham
+Home,D,0,0,West Ham,Fulham
+Away,W,2,0,Everton,Fulham
+Away,D,1,1,Burnley,Fulham
+Home,W,1,0,Sheffield Utd,Fulham
+Away,D,0,0,Crystal Palace,Fulham
+Home,L,0,1,Tottenham,Fulham
+Away,W,1,0,Liverpool,Fulham
+Home,L,0,3,Manchester City,Fulham
+Home,L,1,2,Leeds United,Fulham
+Away,L,1,3,Aston Villa,Fulham
+Home,L,0,1,Wolves,Fulham
+Away,D,1,1,Arsenal,Fulham
+Away,L,0,2,Chelsea,Fulham
+Home,L,0,2,Burnley,Fulham
+Away,L,1,3,Southampton,Fulham
+Away,D,1,1,Manchester Utd,Fulham
+Home,L,0,2,Newcastle Utd,Fulham
+Home,L,0,3,Leicester City,West Bromwich Albion
+Away,L,2,5,Everton,West Bromwich Albion
+Home,D,3,3,Chelsea,West Bromwich Albion
+Away,L,0,2,Southampton,West Bromwich Albion
+Home,D,0,0,Burnley,West Bromwich Albion
+Away,D,1,1,Brighton,West Bromwich Albion
+Away,L,0,2,Fulham,West Bromwich Albion
+Home,L,0,1,Tottenham,West Bromwich Albion
+Away,L,0,1,Manchester Utd,West Bromwich Albion
+Home,W,1,0,Sheffield Utd,West Bromwich Albion
+Home,L,1,5,Crystal Palace,West Bromwich Albion
+Away,L,1,2,Newcastle Utd,West Bromwich Albion
+Away,D,1,1,Manchester City,West Bromwich Albion
+Home,L,0,3,Aston Villa,West Bromwich Albion
+Away,D,1,1,Liverpool,West Bromwich Albion
+Home,L,0,5,Leeds United,West Bromwich Albion
+Home,L,0,4,Arsenal,West Bromwich Albion
+Away,W,3,2,Wolves,West Bromwich Albion
+Away,L,1,2,West Ham,West Bromwich Albion
+Home,L,0,5,Manchester City,West Bromwich Albion
+Home,D,2,2,Fulham,West Bromwich Albion
+Away,L,1,2,Sheffield Utd,West Bromwich Albion
+Away,L,0,2,Tottenham,West Bromwich Albion
+Home,D,1,1,Manchester Utd,West Bromwich Albion
+Away,D,0,0,Burnley,West Bromwich Albion
+Home,W,1,0,Brighton,West Bromwich Albion
+Home,L,0,1,Everton,West Bromwich Albion
+Home,D,0,0,Newcastle Utd,West Bromwich Albion
+Away,L,0,1,Crystal Palace,West Bromwich Albion
+Away,W,5,2,Chelsea,West Bromwich Albion
+Home,W,3,0,Southampton,West Bromwich Albion
+Away,L,0,3,Leicester City,West Bromwich Albion
+Away,D,2,2,Aston Villa,West Bromwich Albion
+Home,D,1,1,Wolves,West Bromwich Albion
+Away,L,1,3,Arsenal,West Bromwich Albion
+Home,L,1,2,Liverpool,West Bromwich Albion
+Home,L,1,3,West Ham,West Bromwich Albion
+Away,L,1,3,Leeds United,West Bromwich Albion
+Home,L,0,2,Wolves,Sheffield United
+Away,L,0,1,Aston Villa,Sheffield United
+Home,L,0,1,Leeds United,Sheffield United
+Away,L,1,2,Arsenal,Sheffield United
+Home,D,1,1,Fulham,Sheffield United
+Away,L,1,2,Liverpool,Sheffield United
+Home,L,0,1,Manchester City,Sheffield United
+Away,L,1,4,Chelsea,Sheffield United
+Home,L,0,1,West Ham,Sheffield United
+Away,L,0,1,West Brom,Sheffield United
+Home,L,1,2,Leicester City,Sheffield United
+Away,L,0,3,Southampton,Sheffield United
+Home,L,2,3,Manchester Utd,Sheffield United
+Away,D,1,1,Brighton,Sheffield United
+Home,L,0,1,Everton,Sheffield United
+Away,L,0,1,Burnley,Sheffield United
+Away,L,0,2,Crystal Palace,Sheffield United
+Home,W,1,0,Newcastle Utd,Sheffield United
+Home,L,1,3,Tottenham,Sheffield United
+Away,W,2,1,Manchester Utd,Sheffield United
+Away,L,0,1,Manchester City,Sheffield United
+Home,W,2,1,West Brom,Sheffield United
+Home,L,1,2,Chelsea,Sheffield United
+Away,L,0,3,West Ham,Sheffield United
+Away,L,0,1,Fulham,Sheffield United
+Home,L,0,2,Liverpool,Sheffield United
+Home,W,1,0,Aston Villa,Sheffield United
+Home,L,0,2,Southampton,Sheffield United
+Away,L,0,5,Leicester City,Sheffield United
+Away,L,1,2,Leeds United,Sheffield United
+Home,L,0,3,Arsenal,Sheffield United
+Away,L,0,1,Wolves,Sheffield United
+Home,W,1,0,Brighton,Sheffield United
+Away,L,0,4,Tottenham,Sheffield United
+Home,L,0,2,Crystal Palace,Sheffield United
+Away,W,1,0,Everton,Sheffield United
+Away,L,0,1,Newcastle Utd,Sheffield United
+Home,W,1,0,Burnley,Sheffield United
+Home,W,4,1,Norwich City,Liverpool
+Away,W,2,1,Southampton,Liverpool
+Home,W,3,1,Arsenal,Liverpool
+Away,W,3,0,Burnley,Liverpool
+Home,W,3,1,Newcastle Utd,Liverpool
+Away,W,2,1,Chelsea,Liverpool
+Away,W,1,0,Sheffield Utd,Liverpool
+Home,W,2,1,Leicester City,Liverpool
+Away,D,1,1,Manchester Utd,Liverpool
+Home,W,2,1,Tottenham,Liverpool
+Away,W,2,1,Aston Villa,Liverpool
+Home,W,3,1,Manchester City,Liverpool
+Away,W,2,1,Crystal Palace,Liverpool
+Home,W,2,1,Brighton,Liverpool
+Home,W,5,2,Everton,Liverpool
+Away,W,3,0,Bournemouth,Liverpool
+Home,W,2,0,Watford,Liverpool
+Away,W,4,0,Leicester City,Liverpool
+Home,W,1,0,Wolves,Liverpool
+Home,W,2,0,Sheffield Utd,Liverpool
+Away,W,1,0,Tottenham,Liverpool
+Home,W,2,0,Manchester Utd,Liverpool
+Away,W,2,1,Wolves,Liverpool
+Away,W,2,0,West Ham,Liverpool
+Home,W,4,0,Southampton,Liverpool
+Away,W,1,0,Norwich City,Liverpool
+Home,W,3,2,West Ham,Liverpool
+Away,L,0,3,Watford,Liverpool
+Home,W,2,1,Bournemouth,Liverpool
+Away,D,0,0,Everton,Liverpool
+Home,W,4,0,Crystal Palace,Liverpool
+Away,L,0,4,Manchester City,Liverpool
+Home,W,2,0,Aston Villa,Liverpool
+Away,W,3,1,Brighton,Liverpool
+Home,D,1,1,Burnley,Liverpool
+Away,L,1,2,Arsenal,Liverpool
+Home,W,5,3,Chelsea,Liverpool
+Away,W,3,1,Newcastle Utd,Liverpool
+Away,W,5,0,West Ham,Manchester City
+Home,D,2,2,Tottenham,Manchester City
+Away,W,3,1,Bournemouth,Manchester City
+Home,W,4,0,Brighton,Manchester City
+Away,L,2,3,Norwich City,Manchester City
+Home,W,8,0,Watford,Manchester City
+Away,W,3,1,Everton,Manchester City
+Home,L,0,2,Wolves,Manchester City
+Away,W,2,0,Crystal Palace,Manchester City
+Home,W,3,0,Aston Villa,Manchester City
+Home,W,2,1,Southampton,Manchester City
+Away,L,1,3,Liverpool,Manchester City
+Home,W,2,1,Chelsea,Manchester City
+Away,D,2,2,Newcastle Utd,Manchester City
+Away,W,4,1,Burnley,Manchester City
+Home,L,1,2,Manchester Utd,Manchester City
+Away,W,3,0,Arsenal,Manchester City
+Home,W,3,1,Leicester City,Manchester City
+Away,L,2,3,Wolves,Manchester City
+Home,W,2,0,Sheffield Utd,Manchester City
+Home,W,2,1,Everton,Manchester City
+Away,W,6,1,Aston Villa,Manchester City
+Home,D,2,2,Crystal Palace,Manchester City
+Away,W,1,0,Sheffield Utd,Manchester City
+Away,L,0,2,Tottenham,Manchester City
+Home,W,2,0,West Ham,Manchester City
+Away,W,1,0,Leicester City,Manchester City
+Away,L,0,2,Manchester Utd,Manchester City
+Home,W,3,0,Arsenal,Manchester City
+Home,W,5,0,Burnley,Manchester City
+Away,L,1,2,Chelsea,Manchester City
+Home,W,4,0,Liverpool,Manchester City
+Away,L,0,1,Southampton,Manchester City
+Home,W,5,0,Newcastle Utd,Manchester City
+Away,W,5,0,Brighton,Manchester City
+Home,W,2,1,Bournemouth,Manchester City
+Away,W,4,0,Watford,Manchester City
+Home,W,5,0,Norwich City,Manchester City
+Home,W,4,0,Chelsea,Manchester Utd
+Away,D,1,1,Wolves,Manchester Utd
+Home,L,1,2,Crystal Palace,Manchester Utd
+Away,D,1,1,Southampton,Manchester Utd
+Home,W,1,0,Leicester City,Manchester Utd
+Away,L,0,2,West Ham,Manchester Utd
+Home,D,1,1,Arsenal,Manchester Utd
+Away,L,0,1,Newcastle Utd,Manchester Utd
+Home,D,1,1,Liverpool,Manchester Utd
+Away,W,3,1,Norwich City,Manchester Utd
+Away,L,0,1,Bournemouth,Manchester Utd
+Home,W,3,1,Brighton,Manchester Utd
+Away,D,3,3,Sheffield Utd,Manchester Utd
+Home,D,2,2,Aston Villa,Manchester Utd
+Home,W,2,1,Tottenham,Manchester Utd
+Away,W,2,1,Manchester City,Manchester Utd
+Home,D,1,1,Everton,Manchester Utd
+Away,L,0,2,Watford,Manchester Utd
+Home,W,4,1,Newcastle Utd,Manchester Utd
+Away,W,2,0,Burnley,Manchester Utd
+Away,L,0,2,Arsenal,Manchester Utd
+Home,W,4,0,Norwich City,Manchester Utd
+Away,L,0,2,Liverpool,Manchester Utd
+Home,L,0,2,Burnley,Manchester Utd
+Home,D,0,0,Wolves,Manchester Utd
+Away,W,2,0,Chelsea,Manchester Utd
+Home,W,3,0,Watford,Manchester Utd
+Away,D,1,1,Everton,Manchester Utd
+Home,W,2,0,Manchester City,Manchester Utd
+Away,D,1,1,Tottenham,Manchester Utd
+Home,W,3,0,Sheffield Utd,Manchester Utd
+Away,W,3,0,Brighton,Manchester Utd
+Home,W,5,2,Bournemouth,Manchester Utd
+Away,W,3,0,Aston Villa,Manchester Utd
+Home,D,2,2,Southampton,Manchester Utd
+Away,W,2,0,Crystal Palace,Manchester Utd
+Home,D,1,1,West Ham,Manchester Utd
+Away,W,2,0,Leicester City,Manchester Utd
+Away,L,0,4,Manchester Utd,Chelsea
+Home,D,1,1,Leicester City,Chelsea
+Away,W,3,2,Norwich City,Chelsea
+Home,D,2,2,Sheffield Utd,Chelsea
+Away,W,5,2,Wolves,Chelsea
+Home,L,1,2,Liverpool,Chelsea
+Home,W,2,0,Brighton,Chelsea
+Away,W,4,1,Southampton,Chelsea
+Home,W,1,0,Newcastle Utd,Chelsea
+Away,W,4,2,Burnley,Chelsea
+Away,W,2,1,Watford,Chelsea
+Home,W,2,0,Crystal Palace,Chelsea
+Away,L,1,2,Manchester City,Chelsea
+Home,L,0,1,West Ham,Chelsea
+Home,W,2,1,Aston Villa,Chelsea
+Away,L,1,3,Everton,Chelsea
+Home,L,0,1,Bournemouth,Chelsea
+Away,W,2,0,Tottenham,Chelsea
+Home,L,0,2,Southampton,Chelsea
+Away,W,2,1,Arsenal,Chelsea
+Away,D,1,1,Brighton,Chelsea
+Home,W,3,0,Burnley,Chelsea
+Away,L,0,1,Newcastle Utd,Chelsea
+Home,D,2,2,Arsenal,Chelsea
+Away,D,2,2,Leicester City,Chelsea
+Home,L,0,2,Manchester Utd,Chelsea
+Home,W,2,1,Tottenham,Chelsea
+Away,D,2,2,Bournemouth,Chelsea
+Home,W,4,0,Everton,Chelsea
+Away,W,2,1,Aston Villa,Chelsea
+Home,W,2,1,Manchester City,Chelsea
+Away,L,2,3,West Ham,Chelsea
+Home,W,3,0,Watford,Chelsea
+Away,W,3,2,Crystal Palace,Chelsea
+Away,L,0,3,Sheffield Utd,Chelsea
+Home,W,1,0,Norwich City,Chelsea
+Away,L,3,5,Liverpool,Chelsea
+Home,W,2,0,Wolves,Chelsea
+Home,D,0,0,Wolves,Leicester City
+Away,D,1,1,Chelsea,Leicester City
+Away,W,2,1,Sheffield Utd,Leicester City
+Home,W,3,1,Bournemouth,Leicester City
+Away,L,0,1,Manchester Utd,Leicester City
+Home,W,2,1,Tottenham,Leicester City
+Home,W,5,0,Newcastle Utd,Leicester City
+Away,L,1,2,Liverpool,Leicester City
+Home,W,2,1,Burnley,Leicester City
+Away,W,9,0,Southampton,Leicester City
+Away,W,2,0,Crystal Palace,Leicester City
+Home,W,2,0,Arsenal,Leicester City
+Away,W,2,0,Brighton,Leicester City
+Home,W,2,1,Everton,Leicester City
+Home,W,2,0,Watford,Leicester City
+Away,W,4,1,Aston Villa,Leicester City
+Home,D,1,1,Norwich City,Leicester City
+Away,L,1,3,Manchester City,Leicester City
+Home,L,0,4,Liverpool,Leicester City
+Away,W,2,1,West Ham,Leicester City
+Away,W,3,0,Newcastle Utd,Leicester City
+Home,L,1,2,Southampton,Leicester City
+Away,L,1,2,Burnley,Leicester City
+Home,W,4,1,West Ham,Leicester City
+Home,D,2,2,Chelsea,Leicester City
+Away,D,0,0,Wolves,Leicester City
+Home,L,0,1,Manchester City,Leicester City
+Away,L,0,1,Norwich City,Leicester City
+Home,W,4,0,Aston Villa,Leicester City
+Away,D,1,1,Watford,Leicester City
+Home,D,0,0,Brighton,Leicester City
+Away,L,1,2,Everton,Leicester City
+Home,W,3,0,Crystal Palace,Leicester City
+Away,D,1,1,Arsenal,Leicester City
+Away,L,1,4,Bournemouth,Leicester City
+Home,W,2,0,Sheffield Utd,Leicester City
+Away,L,0,3,Tottenham,Leicester City
+Home,L,0,2,Manchester Utd,Leicester City
+Home,W,3,1,Aston Villa,Tottenham
+Away,D,2,2,Manchester City,Tottenham
+Home,L,0,1,Newcastle Utd,Tottenham
+Away,D,2,2,Arsenal,Tottenham
+Home,W,4,0,Crystal Palace,Tottenham
+Away,L,1,2,Leicester City,Tottenham
+Home,W,2,1,Southampton,Tottenham
+Away,L,0,3,Brighton,Tottenham
+Home,D,1,1,Watford,Tottenham
+Away,L,1,2,Liverpool,Tottenham
+Away,D,1,1,Everton,Tottenham
+Home,D,1,1,Sheffield Utd,Tottenham
+Away,W,3,2,West Ham,Tottenham
+Home,W,3,2,Bournemouth,Tottenham
+Away,L,1,2,Manchester Utd,Tottenham
+Home,W,5,0,Burnley,Tottenham
+Away,W,2,1,Wolves,Tottenham
+Home,L,0,2,Chelsea,Tottenham
+Home,W,2,1,Brighton,Tottenham
+Away,D,2,2,Norwich City,Tottenham
+Away,L,0,1,Southampton,Tottenham
+Home,L,0,1,Liverpool,Tottenham
+Away,D,0,0,Watford,Tottenham
+Home,W,2,1,Norwich City,Tottenham
+Home,W,2,0,Manchester City,Tottenham
+Away,W,3,2,Aston Villa,Tottenham
+Away,L,1,2,Chelsea,Tottenham
+Home,L,2,3,Wolves,Tottenham
+Away,D,1,1,Burnley,Tottenham
+Home,D,1,1,Manchester Utd,Tottenham
+Home,W,2,0,West Ham,Tottenham
+Away,L,1,3,Sheffield Utd,Tottenham
+Home,W,1,0,Everton,Tottenham
+Away,D,0,0,Bournemouth,Tottenham
+Home,W,2,1,Arsenal,Tottenham
+Away,W,3,1,Newcastle Utd,Tottenham
+Home,W,3,0,Leicester City,Tottenham
+Away,D,1,1,Crystal Palace,Tottenham
+Away,D,0,0,Leicester City,Wolves
+Home,D,1,1,Manchester Utd,Wolves
+Home,D,1,1,Burnley,Wolves
+Away,L,2,3,Everton,Wolves
+Home,L,2,5,Chelsea,Wolves
+Away,D,1,1,Crystal Palace,Wolves
+Home,W,2,0,Watford,Wolves
+Away,W,2,0,Manchester City,Wolves
+Home,D,1,1,Southampton,Wolves
+Away,D,1,1,Newcastle Utd,Wolves
+Away,D,1,1,Arsenal,Wolves
+Home,W,2,1,Aston Villa,Wolves
+Away,W,2,1,Bournemouth,Wolves
+Home,D,1,1,Sheffield Utd,Wolves
+Home,W,2,0,West Ham,Wolves
+Away,D,2,2,Brighton,Wolves
+Home,L,1,2,Tottenham,Wolves
+Away,W,2,1,Norwich City,Wolves
+Home,W,3,2,Manchester City,Wolves
+Away,L,0,1,Liverpool,Wolves
+Away,L,1,2,Watford,Wolves
+Home,D,1,1,Newcastle Utd,Wolves
+Away,W,3,2,Southampton,Wolves
+Home,L,1,2,Liverpool,Wolves
+Away,D,0,0,Manchester Utd,Wolves
+Home,D,0,0,Leicester City,Wolves
+Home,W,3,0,Norwich City,Wolves
+Away,W,3,2,Tottenham,Wolves
+Home,D,0,0,Brighton,Wolves
+Away,W,2,0,West Ham,Wolves
+Home,W,1,0,Bournemouth,Wolves
+Away,W,1,0,Aston Villa,Wolves
+Home,L,0,2,Arsenal,Wolves
+Away,L,0,1,Sheffield Utd,Wolves
+Home,W,3,0,Everton,Wolves
+Away,D,1,1,Burnley,Wolves
+Home,W,2,0,Crystal Palace,Wolves
+Away,L,0,2,Chelsea,Wolves
+Away,W,1,0,Newcastle Utd,Arsenal
+Home,W,2,1,Burnley,Arsenal
+Away,L,1,3,Liverpool,Arsenal
+Home,D,2,2,Tottenham,Arsenal
+Away,D,2,2,Watford,Arsenal
+Home,W,3,2,Aston Villa,Arsenal
+Away,D,1,1,Manchester Utd,Arsenal
+Home,W,1,0,Bournemouth,Arsenal
+Away,L,0,1,Sheffield Utd,Arsenal
+Home,D,2,2,Crystal Palace,Arsenal
+Home,D,1,1,Wolves,Arsenal
+Away,L,0,2,Leicester City,Arsenal
+Home,D,2,2,Southampton,Arsenal
+Away,D,2,2,Norwich City,Arsenal
+Home,L,1,2,Brighton,Arsenal
+Away,W,3,1,West Ham,Arsenal
+Home,L,0,3,Manchester City,Arsenal
+Away,D,0,0,Everton,Arsenal
+Away,D,1,1,Bournemouth,Arsenal
+Home,L,1,2,Chelsea,Arsenal
+Home,W,2,0,Manchester Utd,Arsenal
+Away,D,1,1,Crystal Palace,Arsenal
+Home,D,1,1,Sheffield Utd,Arsenal
+Away,D,2,2,Chelsea,Arsenal
+Away,D,0,0,Burnley,Arsenal
+Home,W,4,0,Newcastle Utd,Arsenal
+Home,W,3,2,Everton,Arsenal
+Home,W,1,0,West Ham,Arsenal
+Away,L,0,3,Manchester City,Arsenal
+Away,L,1,2,Brighton,Arsenal
+Away,W,2,0,Southampton,Arsenal
+Home,W,4,0,Norwich City,Arsenal
+Away,W,2,0,Wolves,Arsenal
+Home,D,1,1,Leicester City,Arsenal
+Away,L,1,2,Tottenham,Arsenal
+Home,W,2,1,Liverpool,Arsenal
+Away,L,0,1,Aston Villa,Arsenal
+Home,W,3,2,Watford,Arsenal
+Away,D,1,1,Bournemouth,Sheffield United
+Home,W,1,0,Crystal Palace,Sheffield United
+Home,L,1,2,Leicester City,Sheffield United
+Away,D,2,2,Chelsea,Sheffield United
+Home,L,0,1,Southampton,Sheffield United
+Away,W,2,0,Everton,Sheffield United
+Home,L,0,1,Liverpool,Sheffield United
+Away,D,0,0,Watford,Sheffield United
+Home,W,1,0,Arsenal,Sheffield United
+Away,D,1,1,West Ham,Sheffield United
+Home,W,3,0,Burnley,Sheffield United
+Away,D,1,1,Tottenham,Sheffield United
+Home,D,3,3,Manchester Utd,Sheffield United
+Away,D,1,1,Wolves,Sheffield United
+Home,L,0,2,Newcastle Utd,Sheffield United
+Away,W,2,1,Norwich City,Sheffield United
+Home,W,2,0,Aston Villa,Sheffield United
+Away,W,1,0,Brighton,Sheffield United
+Home,D,1,1,Watford,Sheffield United
+Away,L,0,2,Manchester City,Sheffield United
+Away,L,0,2,Liverpool,Sheffield United
+Home,W,1,0,West Ham,Sheffield United
+Away,D,1,1,Arsenal,Sheffield United
+Home,L,0,1,Manchester City,Sheffield United
+Away,W,1,0,Crystal Palace,Sheffield United
+Home,W,2,1,Bournemouth,Sheffield United
+Home,D,1,1,Brighton,Sheffield United
+Home,W,1,0,Norwich City,Sheffield United
+Away,D,0,0,Aston Villa,Sheffield United
+Away,L,0,3,Newcastle Utd,Sheffield United
+Away,L,0,3,Manchester Utd,Sheffield United
+Home,W,3,1,Tottenham,Sheffield United
+Away,D,1,1,Burnley,Sheffield United
+Home,W,1,0,Wolves,Sheffield United
+Home,W,3,0,Chelsea,Sheffield United
+Away,L,0,2,Leicester City,Sheffield United
+Home,L,0,1,Everton,Sheffield United
+Away,L,1,3,Southampton,Sheffield United
+Home,W,3,0,Southampton,Burnley
+Away,L,1,2,Arsenal,Burnley
+Away,D,1,1,Wolves,Burnley
+Home,L,0,3,Liverpool,Burnley
+Away,D,1,1,Brighton,Burnley
+Home,W,2,0,Norwich City,Burnley
+Away,D,2,2,Aston Villa,Burnley
+Home,W,1,0,Everton,Burnley
+Away,L,1,2,Leicester City,Burnley
+Home,L,2,4,Chelsea,Burnley
+Away,L,0,3,Sheffield Utd,Burnley
+Home,W,3,0,West Ham,Burnley
+Away,W,3,0,Watford,Burnley
+Home,L,0,2,Crystal Palace,Burnley
+Home,L,1,4,Manchester City,Burnley
+Away,L,0,5,Tottenham,Burnley
+Home,W,1,0,Newcastle Utd,Burnley
+Away,W,1,0,Bournemouth,Burnley
+Away,L,0,1,Everton,Burnley
+Home,L,0,2,Manchester Utd,Burnley
+Home,L,1,2,Aston Villa,Burnley
+Away,L,0,3,Chelsea,Burnley
+Home,W,2,1,Leicester City,Burnley
+Away,W,2,0,Manchester Utd,Burnley
+Home,D,0,0,Arsenal,Burnley
+Away,W,2,1,Southampton,Burnley
+Home,W,3,0,Bournemouth,Burnley
+Away,D,0,0,Newcastle Utd,Burnley
+Home,D,1,1,Tottenham,Burnley
+Away,L,0,5,Manchester City,Burnley
+Home,W,1,0,Watford,Burnley
+Away,W,1,0,Crystal Palace,Burnley
+Home,D,1,1,Sheffield Utd,Burnley
+Away,W,1,0,West Ham,Burnley
+Away,D,1,1,Liverpool,Burnley
+Home,D,1,1,Wolves,Burnley
+Away,W,2,0,Norwich City,Burnley
+Home,L,1,2,Brighton,Burnley
+Away,L,0,3,Burnley,Southampton
+Home,L,1,2,Liverpool,Southampton
+Away,W,2,0,Brighton,Southampton
+Home,D,1,1,Manchester Utd,Southampton
+Away,W,1,0,Sheffield Utd,Southampton
+Home,L,1,3,Bournemouth,Southampton
+Away,L,1,2,Tottenham,Southampton
+Home,L,1,4,Chelsea,Southampton
+Away,D,1,1,Wolves,Southampton
+Home,L,0,9,Leicester City,Southampton
+Away,L,1,2,Manchester City,Southampton
+Home,L,1,2,Everton,Southampton
+Away,D,2,2,Arsenal,Southampton
+Home,W,2,1,Watford,Southampton
+Home,W,2,1,Norwich City,Southampton
+Away,L,1,2,Newcastle Utd,Southampton
+Home,L,0,1,West Ham,Southampton
+Away,W,3,1,Aston Villa,Southampton
+Away,W,2,0,Chelsea,Southampton
+Home,D,1,1,Crystal Palace,Southampton
+Home,W,1,0,Tottenham,Southampton
+Away,W,2,1,Leicester City,Southampton
+Home,L,2,3,Wolves,Southampton
+Away,W,2,0,Crystal Palace,Southampton
+Away,L,0,4,Liverpool,Southampton
+Home,L,1,2,Burnley,Southampton
+Home,W,2,0,Aston Villa,Southampton
+Away,L,1,3,West Ham,Southampton
+Home,L,0,1,Newcastle Utd,Southampton
+Away,W,3,0,Norwich City,Southampton
+Home,L,0,2,Arsenal,Southampton
+Away,W,3,1,Watford,Southampton
+Home,W,1,0,Manchester City,Southampton
+Away,D,1,1,Everton,Southampton
+Away,D,2,2,Manchester Utd,Southampton
+Home,D,1,1,Brighton,Southampton
+Away,W,2,0,Bournemouth,Southampton
+Home,W,3,1,Sheffield Utd,Southampton
+Away,D,0,0,Crystal Palace,Everton
+Home,W,1,0,Watford,Everton
+Away,L,0,2,Aston Villa,Everton
+Home,W,3,2,Wolves,Everton
+Away,L,1,3,Bournemouth,Everton
+Home,L,0,2,Sheffield Utd,Everton
+Home,L,1,3,Manchester City,Everton
+Away,L,0,1,Burnley,Everton
+Home,W,2,0,West Ham,Everton
+Away,L,2,3,Brighton,Everton
+Home,D,1,1,Tottenham,Everton
+Away,W,2,1,Southampton,Everton
+Home,L,0,2,Norwich City,Everton
+Away,L,1,2,Leicester City,Everton
+Away,L,2,5,Liverpool,Everton
+Home,W,3,1,Chelsea,Everton
+Away,D,1,1,Manchester Utd,Everton
+Home,D,0,0,Arsenal,Everton
+Home,W,1,0,Burnley,Everton
+Away,W,2,1,Newcastle Utd,Everton
+Away,L,1,2,Manchester City,Everton
+Home,W,1,0,Brighton,Everton
+Away,D,1,1,West Ham,Everton
+Home,D,2,2,Newcastle Utd,Everton
+Away,W,3,2,Watford,Everton
+Home,W,3,1,Crystal Palace,Everton
+Away,L,2,3,Arsenal,Everton
+Home,D,1,1,Manchester Utd,Everton
+Away,L,0,4,Chelsea,Everton
+Home,D,0,0,Liverpool,Everton
+Away,W,1,0,Norwich City,Everton
+Home,W,2,1,Leicester City,Everton
+Away,L,0,1,Tottenham,Everton
+Home,D,1,1,Southampton,Everton
+Away,L,0,3,Wolves,Everton
+Home,D,1,1,Aston Villa,Everton
+Away,W,1,0,Sheffield Utd,Everton
+Home,L,1,3,Bournemouth,Everton
+Home,L,0,1,Arsenal,Newcastle Utd
+Away,L,1,3,Norwich City,Newcastle Utd
+Away,W,1,0,Tottenham,Newcastle Utd
+Home,D,1,1,Watford,Newcastle Utd
+Away,L,1,3,Liverpool,Newcastle Utd
+Home,D,0,0,Brighton,Newcastle Utd
+Away,L,0,5,Leicester City,Newcastle Utd
+Home,W,1,0,Manchester Utd,Newcastle Utd
+Away,L,0,1,Chelsea,Newcastle Utd
+Home,D,1,1,Wolves,Newcastle Utd
+Away,W,3,2,West Ham,Newcastle Utd
+Home,W,2,1,Bournemouth,Newcastle Utd
+Away,L,0,2,Aston Villa,Newcastle Utd
+Home,D,2,2,Manchester City,Newcastle Utd
+Away,W,2,0,Sheffield Utd,Newcastle Utd
+Home,W,2,1,Southampton,Newcastle Utd
+Away,L,0,1,Burnley,Newcastle Utd
+Home,W,1,0,Crystal Palace,Newcastle Utd
+Away,L,1,4,Manchester Utd,Newcastle Utd
+Home,L,1,2,Everton,Newcastle Utd
+Home,L,0,3,Leicester City,Newcastle Utd
+Away,D,1,1,Wolves,Newcastle Utd
+Home,W,1,0,Chelsea,Newcastle Utd
+Away,D,2,2,Everton,Newcastle Utd
+Home,D,0,0,Norwich City,Newcastle Utd
+Away,L,0,4,Arsenal,Newcastle Utd
+Away,L,0,1,Crystal Palace,Newcastle Utd
+Home,D,0,0,Burnley,Newcastle Utd
+Away,W,1,0,Southampton,Newcastle Utd
+Home,W,3,0,Sheffield Utd,Newcastle Utd
+Home,D,1,1,Aston Villa,Newcastle Utd
+Away,W,4,1,Bournemouth,Newcastle Utd
+Home,D,2,2,West Ham,Newcastle Utd
+Away,L,0,5,Manchester City,Newcastle Utd
+Away,L,1,2,Watford,Newcastle Utd
+Home,L,1,3,Tottenham,Newcastle Utd
+Away,D,0,0,Brighton,Newcastle Utd
+Home,L,1,3,Liverpool,Newcastle Utd
+Home,D,0,0,Everton,Crystal Palace
+Away,L,0,1,Sheffield Utd,Crystal Palace
+Away,W,2,1,Manchester Utd,Crystal Palace
+Home,W,1,0,Aston Villa,Crystal Palace
+Away,L,0,4,Tottenham,Crystal Palace
+Home,D,1,1,Wolves,Crystal Palace
+Home,W,2,0,Norwich City,Crystal Palace
+Away,W,2,1,West Ham,Crystal Palace
+Home,L,0,2,Manchester City,Crystal Palace
+Away,D,2,2,Arsenal,Crystal Palace
+Home,L,0,2,Leicester City,Crystal Palace
+Away,L,0,2,Chelsea,Crystal Palace
+Home,L,1,2,Liverpool,Crystal Palace
+Away,W,2,0,Burnley,Crystal Palace
+Home,W,1,0,Bournemouth,Crystal Palace
+Away,D,0,0,Watford,Crystal Palace
+Home,D,1,1,Brighton,Crystal Palace
+Away,L,0,1,Newcastle Utd,Crystal Palace
+Home,W,2,1,West Ham,Crystal Palace
+Away,D,1,1,Southampton,Crystal Palace
+Away,D,1,1,Norwich City,Crystal Palace
+Home,D,1,1,Arsenal,Crystal Palace
+Away,D,2,2,Manchester City,Crystal Palace
+Home,L,0,2,Southampton,Crystal Palace
+Home,L,0,1,Sheffield Utd,Crystal Palace
+Away,L,1,3,Everton,Crystal Palace
+Home,W,1,0,Newcastle Utd,Crystal Palace
+Away,W,1,0,Brighton,Crystal Palace
+Home,W,1,0,Watford,Crystal Palace
+Away,W,2,0,Bournemouth,Crystal Palace
+Away,L,0,4,Liverpool,Crystal Palace
+Home,L,0,1,Burnley,Crystal Palace
+Away,L,0,3,Leicester City,Crystal Palace
+Home,L,2,3,Chelsea,Crystal Palace
+Away,L,0,2,Aston Villa,Crystal Palace
+Home,L,0,2,Manchester Utd,Crystal Palace
+Away,L,0,2,Wolves,Crystal Palace
+Home,D,1,1,Tottenham,Crystal Palace
+Away,W,3,0,Watford,Brighton
+Home,D,1,1,West Ham,Brighton
+Home,L,0,2,Southampton,Brighton
+Away,L,0,4,Manchester City,Brighton
+Home,D,1,1,Burnley,Brighton
+Away,D,0,0,Newcastle Utd,Brighton
+Away,L,0,2,Chelsea,Brighton
+Home,W,3,0,Tottenham,Brighton
+Away,L,1,2,Aston Villa,Brighton
+Home,W,3,2,Everton,Brighton
+Home,W,2,0,Norwich City,Brighton
+Away,L,1,3,Manchester Utd,Brighton
+Home,L,0,2,Leicester City,Brighton
+Away,L,1,2,Liverpool,Brighton
+Away,W,2,1,Arsenal,Brighton
+Home,D,2,2,Wolves,Brighton
+Away,D,1,1,Crystal Palace,Brighton
+Home,L,0,1,Sheffield Utd,Brighton
+Away,L,1,2,Tottenham,Brighton
+Home,W,2,0,Bournemouth,Brighton
+Home,D,1,1,Chelsea,Brighton
+Away,L,0,1,Everton,Brighton
+Home,D,1,1,Aston Villa,Brighton
+Away,L,1,3,Bournemouth,Brighton
+Away,D,3,3,West Ham,Brighton
+Home,D,1,1,Watford,Brighton
+Away,D,1,1,Sheffield Utd,Brighton
+Home,L,0,1,Crystal Palace,Brighton
+Away,D,0,0,Wolves,Brighton
+Home,W,2,1,Arsenal,Brighton
+Away,D,0,0,Leicester City,Brighton
+Home,L,0,3,Manchester Utd,Brighton
+Away,W,1,0,Norwich City,Brighton
+Home,L,1,3,Liverpool,Brighton
+Home,L,0,5,Manchester City,Brighton
+Away,D,1,1,Southampton,Brighton
+Home,D,0,0,Newcastle Utd,Brighton
+Away,W,2,1,Burnley,Brighton
+Home,L,0,5,Manchester City,West Ham Utd
+Away,D,1,1,Brighton,West Ham Utd
+Away,W,3,1,Watford,West Ham Utd
+Home,W,2,0,Norwich City,West Ham Utd
+Away,D,0,0,Aston Villa,West Ham Utd
+Home,W,2,0,Manchester Utd,West Ham Utd
+Away,D,2,2,Bournemouth,West Ham Utd
+Home,L,1,2,Crystal Palace,West Ham Utd
+Away,L,0,2,Everton,West Ham Utd
+Home,D,1,1,Sheffield Utd,West Ham Utd
+Home,L,2,3,Newcastle Utd,West Ham Utd
+Away,L,0,3,Burnley,West Ham Utd
+Home,L,2,3,Tottenham,West Ham Utd
+Away,W,1,0,Chelsea,West Ham Utd
+Away,L,0,2,Wolves,West Ham Utd
+Home,L,1,3,Arsenal,West Ham Utd
+Away,W,1,0,Southampton,West Ham Utd
+Away,L,1,2,Crystal Palace,West Ham Utd
+Home,L,1,2,Leicester City,West Ham Utd
+Home,W,4,0,Bournemouth,West Ham Utd
+Away,L,0,1,Sheffield Utd,West Ham Utd
+Home,D,1,1,Everton,West Ham Utd
+Away,L,1,4,Leicester City,West Ham Utd
+Home,L,0,2,Liverpool,West Ham Utd
+Home,D,3,3,Brighton,West Ham Utd
+Away,L,0,2,Manchester City,West Ham Utd
+Away,L,2,3,Liverpool,West Ham Utd
+Home,W,3,1,Southampton,West Ham Utd
+Away,L,0,1,Arsenal,West Ham Utd
+Home,L,0,2,Wolves,West Ham Utd
+Away,L,0,2,Tottenham,West Ham Utd
+Home,W,3,2,Chelsea,West Ham Utd
+Away,D,2,2,Newcastle Utd,West Ham Utd
+Home,L,0,1,Burnley,West Ham Utd
+Away,W,4,0,Norwich City,West Ham Utd
+Home,W,3,1,Watford,West Ham Utd
+Away,D,1,1,Manchester Utd,West Ham Utd
+Home,D,1,1,Aston Villa,West Ham Utd
+Away,L,1,3,Tottenham,Aston Villa
+Home,L,1,2,Bournemouth,Aston Villa
+Home,W,2,0,Everton,Aston Villa
+Away,L,0,1,Crystal Palace,Aston Villa
+Home,D,0,0,West Ham,Aston Villa
+Away,L,2,3,Arsenal,Aston Villa
+Home,D,2,2,Burnley,Aston Villa
+Away,W,5,1,Norwich City,Aston Villa
+Home,W,2,1,Brighton,Aston Villa
+Away,L,0,3,Manchester City,Aston Villa
+Home,L,1,2,Liverpool,Aston Villa
+Away,L,1,2,Wolves,Aston Villa
+Home,W,2,0,Newcastle Utd,Aston Villa
+Away,D,2,2,Manchester Utd,Aston Villa
+Away,L,1,2,Chelsea,Aston Villa
+Home,L,1,4,Leicester City,Aston Villa
+Away,L,0,2,Sheffield Utd,Aston Villa
+Home,L,1,3,Southampton,Aston Villa
+Home,W,1,0,Norwich City,Aston Villa
+Away,L,0,3,Watford,Aston Villa
+Away,W,2,1,Burnley,Aston Villa
+Home,L,1,6,Manchester City,Aston Villa
+Away,D,1,1,Brighton,Aston Villa
+Home,W,2,1,Watford,Aston Villa
+Away,L,1,2,Bournemouth,Aston Villa
+Home,L,2,3,Tottenham,Aston Villa
+Away,L,0,2,Southampton,Aston Villa
+Away,L,0,4,Leicester City,Aston Villa
+Home,D,0,0,Sheffield Utd,Aston Villa
+Home,L,1,2,Chelsea,Aston Villa
+Away,D,1,1,Newcastle Utd,Aston Villa
+Home,L,0,1,Wolves,Aston Villa
+Away,L,0,2,Liverpool,Aston Villa
+Home,L,0,3,Manchester Utd,Aston Villa
+Home,W,2,0,Crystal Palace,Aston Villa
+Away,D,1,1,Everton,Aston Villa
+Home,W,1,0,Arsenal,Aston Villa
+Away,D,1,1,West Ham,Aston Villa
+Home,D,1,1,Sheffield Utd,Bournemouth
+Away,W,2,1,Aston Villa,Bournemouth
+Home,L,1,3,Manchester City,Bournemouth
+Away,L,1,3,Leicester City,Bournemouth
+Home,W,3,1,Everton,Bournemouth
+Away,W,3,1,Southampton,Bournemouth
+Home,D,2,2,West Ham,Bournemouth
+Away,L,0,1,Arsenal,Bournemouth
+Home,D,0,0,Norwich City,Bournemouth
+Away,D,0,0,Watford,Bournemouth
+Home,W,1,0,Manchester Utd,Bournemouth
+Away,L,1,2,Newcastle Utd,Bournemouth
+Home,L,1,2,Wolves,Bournemouth
+Away,L,2,3,Tottenham,Bournemouth
+Away,L,0,1,Crystal Palace,Bournemouth
+Home,L,0,3,Liverpool,Bournemouth
+Away,W,1,0,Chelsea,Bournemouth
+Home,L,0,1,Burnley,Bournemouth
+Home,D,1,1,Arsenal,Bournemouth
+Away,L,0,2,Brighton,Bournemouth
+Away,L,0,4,West Ham,Bournemouth
+Home,L,0,3,Watford,Bournemouth
+Away,L,0,1,Norwich City,Bournemouth
+Home,W,3,1,Brighton,Bournemouth
+Home,W,2,1,Aston Villa,Bournemouth
+Away,L,1,2,Sheffield Utd,Bournemouth
+Away,L,0,3,Burnley,Bournemouth
+Home,D,2,2,Chelsea,Bournemouth
+Away,L,1,2,Liverpool,Bournemouth
+Home,L,0,2,Crystal Palace,Bournemouth
+Away,L,0,1,Wolves,Bournemouth
+Home,L,1,4,Newcastle Utd,Bournemouth
+Away,L,2,5,Manchester Utd,Bournemouth
+Home,D,0,0,Tottenham,Bournemouth
+Home,W,4,1,Leicester City,Bournemouth
+Away,L,1,2,Manchester City,Bournemouth
+Home,L,0,2,Southampton,Bournemouth
+Away,W,3,1,Everton,Bournemouth
+Home,L,0,3,Brighton,Watford
+Away,L,0,1,Everton,Watford
+Home,L,1,3,West Ham,Watford
+Away,D,1,1,Newcastle Utd,Watford
+Home,D,2,2,Arsenal,Watford
+Away,L,0,8,Manchester City,Watford
+Away,L,0,2,Wolves,Watford
+Home,D,0,0,Sheffield Utd,Watford
+Away,D,1,1,Tottenham,Watford
+Home,D,0,0,Bournemouth,Watford
+Home,L,1,2,Chelsea,Watford
+Away,W,2,0,Norwich City,Watford
+Home,L,0,3,Burnley,Watford
+Away,L,1,2,Southampton,Watford
+Away,L,0,2,Leicester City,Watford
+Home,D,0,0,Crystal Palace,Watford
+Away,L,0,2,Liverpool,Watford
+Home,W,2,0,Manchester Utd,Watford
+Away,D,1,1,Sheffield Utd,Watford
+Home,W,3,0,Aston Villa,Watford
+Home,W,2,1,Wolves,Watford
+Away,W,3,0,Bournemouth,Watford
+Home,D,0,0,Tottenham,Watford
+Away,L,1,2,Aston Villa,Watford
+Home,L,2,3,Everton,Watford
+Away,D,1,1,Brighton,Watford
+Away,L,0,3,Manchester Utd,Watford
+Home,W,3,0,Liverpool,Watford
+Away,L,0,1,Crystal Palace,Watford
+Home,D,1,1,Leicester City,Watford
+Away,L,0,1,Burnley,Watford
+Home,L,1,3,Southampton,Watford
+Away,L,0,3,Chelsea,Watford
+Home,W,2,1,Norwich City,Watford
+Home,W,2,1,Newcastle Utd,Watford
+Away,L,1,3,West Ham,Watford
+Home,L,0,4,Manchester City,Watford
+Away,L,2,3,Arsenal,Watford
+Away,L,1,4,Liverpool,Norwich City
+Home,W,3,1,Newcastle Utd,Norwich City
+Home,L,2,3,Chelsea,Norwich City
+Away,L,0,2,West Ham,Norwich City
+Home,W,3,2,Manchester City,Norwich City
+Away,L,0,2,Burnley,Norwich City
+Away,L,0,2,Crystal Palace,Norwich City
+Home,L,1,5,Aston Villa,Norwich City
+Away,D,0,0,Bournemouth,Norwich City
+Home,L,1,3,Manchester Utd,Norwich City
+Away,L,0,2,Brighton,Norwich City
+Home,L,0,2,Watford,Norwich City
+Away,W,2,0,Everton,Norwich City
+Home,D,2,2,Arsenal,Norwich City
+Away,L,1,2,Southampton,Norwich City
+Home,L,1,2,Sheffield Utd,Norwich City
+Away,D,1,1,Leicester City,Norwich City
+Home,L,1,2,Wolves,Norwich City
+Away,L,0,1,Aston Villa,Norwich City
+Home,D,2,2,Tottenham,Norwich City
+Home,D,1,1,Crystal Palace,Norwich City
+Away,L,0,4,Manchester Utd,Norwich City
+Home,W,1,0,Bournemouth,Norwich City
+Away,L,1,2,Tottenham,Norwich City
+Away,D,0,0,Newcastle Utd,Norwich City
+Home,L,0,1,Liverpool,Norwich City
+Away,L,0,3,Wolves,Norwich City
+Home,W,1,0,Leicester City,Norwich City
+Away,L,0,1,Sheffield Utd,Norwich City
+Home,L,0,3,Southampton,Norwich City
+Home,L,0,1,Everton,Norwich City
+Away,L,0,4,Arsenal,Norwich City
+Home,L,0,1,Brighton,Norwich City
+Away,L,1,2,Watford,Norwich City
+Home,L,0,4,West Ham,Norwich City
+Away,L,0,1,Chelsea,Norwich City
+Home,L,0,2,Burnley,Norwich City
+Away,L,0,5,Manchester City,Norwich City
